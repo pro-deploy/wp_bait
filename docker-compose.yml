@@ -24,7 +24,7 @@ services:
       - nginx_proxy_vhost:/etc/nginx/vhost.d
       - nginx_proxy_html:/usr/share/nginx/html
     environment:
-      - DEFAULT_EMAIL=${LETSENCRYPT_EMAIL:-admin@example.com}
+      - DEFAULT_EMAIL=${LETSENCRYPT_EMAIL}
     depends_on:
       - nginx-proxy
 
@@ -33,17 +33,17 @@ services:
     container_name: wordpress-app-prod
     restart: always
     environment:
-      WORDPRESS_DB_HOST: ${MYSQL_HOST:-192.168.0.4}:${MYSQL_PORT:-3306}
-      WORDPRESS_DB_NAME: ${MYSQL_DBNAME:-default_db}
-      WORDPRESS_DB_USER: ${MYSQL_USER:-gen_user}
-      WORDPRESS_DB_PASSWORD: ${MYSQL_PASSWORD:-sv4Y>9DO8:fL&N}
-      WORDPRESS_DEBUG: "1"
-      WORDPRESS_DEBUG_LOG: "1"
-      WORDPRESS_DEBUG_DISPLAY: "1"
+      WORDPRESS_DB_HOST: ${MYSQL_HOST}:${MYSQL_PORT:-3306}
+      WORDPRESS_DB_NAME: ${MYSQL_DBNAME}
+      WORDPRESS_DB_USER: ${MYSQL_USER}
+      WORDPRESS_DB_PASSWORD: ${MYSQL_PASSWORD}
+      WORDPRESS_DEBUG: ${WORDPRESS_DEBUG:-0}
+      WORDPRESS_DEBUG_LOG: ${WORDPRESS_DEBUG_LOG:-0}
+      WORDPRESS_DEBUG_DISPLAY: ${WORDPRESS_DEBUG_DISPLAY:-0}
       PHP_INI_SCAN_DIR: "/usr/local/etc/php/conf.d:/usr/local/etc/php/conf.d"
       VIRTUAL_HOST: ${DOMAIN_NAME}
       LETSENCRYPT_HOST: ${DOMAIN_NAME}
-      LETSENCRYPT_EMAIL: ${LETSENCRYPT_EMAIL:-admin@example.com}
+      LETSENCRYPT_EMAIL: ${LETSENCRYPT_EMAIL}
     volumes:
       - ./wp-content:/var/www/html/wp-content
       - wordpress_data:/var/www/html
