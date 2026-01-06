@@ -1,0 +1,2519 @@
+# Translation of Themes - Blog Postx in Russian
+# This file is distributed under the same license as the Themes - Blog Postx package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-06 08:16:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Blog Postx\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blog Postx"
+msgstr "Blog Postx"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blog Postx Theme helps to illustrate your distinguished story through its interactive and stylish page layouts. Adorned with multiple eye-catching demos, Blog Postx theme allows you to set up your blog in minimal steps by importing unique demos.  Not only is it beautiful, it’s immensely easy to customize too. You will find SEO options, theme settings, menu settings, mobile view options, design controls, and all in one central place - Live Customizer. After viewing the demo and customizer settings, you will soon realize the dedicated focus that Blog Postx Theme has put on mobile users, SEO, and UI/UX design. As a result, it should come as no surprise that there are image Settings - image ratio, image size, image border, image box shadow for each block and widget. It has more to offer you to extend with additional features. Documentation: https://doc.blazethemes.com/blog-postx/, Video Tutorial: youtube.com/watch?v=25PymlwwB14, Demo: https://preview.blazethemes.com/blog-postx-free-one/"
+msgstr "Тема Blog Postx поможет проиллюстрировать Вашу выдающуюся историю с помощью интерактивных и стильных макетов страниц. Украшенная множеством привлекательных демо-версий, тема Blog Postx позволяет Вам настроить свой блог за минимальное кол-во шагов, импортируя уникальные демо-версии.  Она не только красива, но и очень проста в настройке. Вы найдете SEO-опции, настройки темы, настройки меню, параметры просмотра для мобильных устройств, элементы управления дизайном, и все это в одном центральном месте - Live Customizer. После просмотра демо-версии и настроек темы Вы вскоре поймете, что тема Blog Postx уделяет особое внимание пользователям мобильных устройств, SEO и дизайну UI/UX. Поэтому неудивительно, что для каждого блока и виджета есть Настройки изображений - соотношение изображений, размер изображения, рамка изображения, тень бокса изображения. Вы сможете расширить его дополнительными функциями. Документация: https://doc.blazethemes.com/blog-postx/, Видеоучебное пособие: youtube.com/watch?v=25PymlwwB14, Демо: https://preview.blazethemes.com/blog-postx-free-one/"
+
+#: inc/admin/admin.php:624 inc/admin/admin.php:637
+msgid "Demo importer plugin activated"
+msgstr "Плагин импорта демо активирован"
+
+#: inc/admin/admin.php:641
+msgid "Error while trying to install or active the plugin."
+msgstr "Ошибка при попытке установить или активировать плагин."
+
+#: inc/admin/admin.php:843
+msgid "Install Demos"
+msgstr "Установить демо"
+
+#: inc/admin/admin.php:175 inc/admin/admin.php:844
+msgid "Customize Site"
+msgstr "Настройка сайта"
+
+#: inc/admin/admin.php:232 inc/admin/admin.php:845
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/admin/admin.php:849
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: inc/admin/admin.php:228
+msgid "Leave a review"
+msgstr "Оставьте отзыв"
+
+#: inc/admin/admin.php:440
+msgid "All"
+msgstr "Все"
+
+#: inc/admin/admin.php:478 inc/admin/assets/demos.php:80
+#: inc/admin/assets/demos.php:106 inc/admin/assets/demos.php:132
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/admin/admin.php:677
+msgid "We recommend you backup your website content before attempting to import the demo so that you can recover your website if something goes wrong. You can use %s plugin for it."
+msgstr "Мы рекомендуем вам сделать резервную копию содержимого вашего сайта, прежде чем пытаться импортировать демо-версию, чтобы вы могли восстановить свой сайт, если что-то пойдет не так. Для этого вы можете использовать плагин %s."
+
+#: inc/admin/admin.php:677
+msgid "All in one migration"
+msgstr "Все в одной миграции"
+
+#: inc/admin/admin.php:679
+msgid "This process will install all the required plugins, import contents and setup customizer and theme options."
+msgstr "Этот процесс установит все необходимые плагины, импортирует содержимое и настроит настройки пользовательского интерфейса и темы."
+
+#: inc/admin/admin.php:682
+msgid "Required Plugins"
+msgstr "Необходимые плагины"
+
+#: inc/admin/admin.php:683
+msgid "For your website to look exactly like the demo,the import process will install and activate the following plugin if they are not installed or activated."
+msgstr "Чтобы ваш сайт выглядел точно так же, как демо-версия, в процессе импорта будут установлены и активированы следующие плагины, если они не установлены или не активированы."
+
+#: inc/admin/admin.php:715
+msgid "No Required Plugins Found."
+msgstr "Не найдено необходимых плагинов."
+
+#: inc/admin/admin.php:750
+msgid "Import Demo"
+msgstr "Импорт демо"
+
+#: inc/admin/admin.php:749
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/admin/admin.php:758
+msgid "Demo Import Progress"
+msgstr "Ход выполнения импорта демо"
+
+#: inc/admin/admin.php:769
+msgid "Demo import success"
+msgstr "Импорт демо выполнен успешно"
+
+#: inc/admin/admin.php:180
+msgid "Edit Header"
+msgstr "Изменить заголовок"
+
+#: inc/admin/admin.php:204
+msgid "Edit Footer"
+msgstr "Изменить подвал"
+
+#: inc/admin/admin.php:236
+msgid "View demo"
+msgstr "Смотреть демонстрацию"
+
+#: inc/admin/admin.php:244 inc/admin/assets/demos.php:31
+#: inc/admin/assets/demos.php:56 inc/admin/assets/demos.php:81
+#: inc/admin/assets/demos.php:107 inc/admin/assets/demos.php:133
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/admin/admin.php:255
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/admin/admin.php:276
+msgid "Version: "
+msgstr "Версия: "
+
+#: inc/admin/admin.php:297
+msgid "View on Wordpress.org"
+msgstr "Просмотреть на WordPress.org"
+
+#: inc/admin/admin.php:324
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr "Lorem Ipsum - это просто фиктивный текст, используемый в полиграфии и типографском деле."
+
+#: inc/admin/admin.php:569
+msgid "Here"
+msgstr "Здесь"
+
+#: inc/admin/admin.php:569
+msgid "Install and Activate"
+msgstr "Установить и активировать"
+
+#: inc/admin/admin.php:575
+msgid "Installed & Activated"
+msgstr "Установлен и активирован"
+
+#: inc/admin/admin.php:579
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/admin/admin.php:583
+msgid "activate"
+msgstr "активировать"
+
+#: inc/admin/admin.php:583
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/admin/admin.php:624 inc/admin/admin.php:637
+msgid "Plugin activated"
+msgstr "Плагин активирован"
+
+#: inc/admin/admin.php:723
+msgid "Files"
+msgstr "Файлы"
+
+#: inc/admin/admin.php:170
+msgid "Theme provides handy customizer that allows you to modify the site looks. You can click on the below links to navigate to the particular sections."
+msgstr "В теме предусмотрен удобный настройщик, позволяющий изменять внешний вид сайта. Вы можете щелкнуть по ссылкам ниже, чтобы перейти к определенным разделам."
+
+#: inc/admin/admin.php:186
+msgid "Edit Single Post"
+msgstr "Изменить отдельную запись"
+
+#: inc/admin/admin.php:192
+msgid "Edit Single Page"
+msgstr "Изменить отдельную страницу"
+
+#: inc/admin/admin.php:198
+msgid "Edit Archive"
+msgstr "Изменить архив"
+
+#: inc/admin/admin.php:222
+msgid "Several outside resources to help you fully understand the theme."
+msgstr "Несколько внешних ресурсов, которые помогут Вам полностью понять тему."
+
+#: inc/admin/admin.php:223
+msgid "We offer blogs, demos, documentation, and support forums for quick assistance. We hope this makes it easier for you."
+msgstr "Мы предлагаем блоги, демо-версии, документацию и форумы поддержки для быстрой помощи. Мы надеемся, что это облегчит Вам задачу."
+
+#: inc/admin/admin.php:240 inc/admin/admin.php:300
+msgid "Official site"
+msgstr "Официальный сайт"
+
+#: inc/admin/admin.php:256
+msgid "We recommend different useful plugins that can boost functionality, security, and user experience on your site."
+msgstr "Мы рекомендуем различные полезные плагины, которые повысят функциональность, безопасность и удобство использования Вашего сайта."
+
+#: inc/admin/admin.php:323
+msgid "All starter sites"
+msgstr "Все стартовые сайты"
+
+#: inc/admin/admin.php:371
+msgid " to install and activate one click demo importer plugin"
+msgstr " установить и активировать плагин для импорта демо-версий в один клик"
+
+#: inc/admin/admin.php:371
+msgid " to activate one click demo importer plugin"
+msgstr " активировать плагин импортера демо-версий в один клик"
+
+#: inc/admin/admin.php:381
+msgid "You are all set to install the demo."
+msgstr "У Вас все готово для установки демо-версии."
+
+#: inc/admin/admin.php:813
+msgid "You dont have permission to perform this action"
+msgstr "У вас нет разрешения на выполнение этого действия"
+
+#: inc/admin/admin.php:841
+msgid "Get started with multipurpose news theme and give your site a new look. We recommend you to please go through the documentation to get started with theme and setup homepage quicky."
+msgstr "Начните работу с многофункциональной новостной темой и придайте своему сайту новый вид. Мы рекомендуем вам просмотреть документацию, чтобы быстро начать работу с темой и настроить главную страницу."
+
+#: inc/admin/admin.php:911
+msgid "Welcome notice hidden"
+msgstr "Приветственное сообщение скрыто"
+
+#: inc/admin/assets/demos.php:82 inc/admin/assets/demos.php:108
+#: inc/admin/assets/demos.php:134
+msgid "Magazine"
+msgstr "Журнал"
+
+#: inc/admin/admin.php:423
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/admin/admin.php:372
+msgid "Click"
+msgstr "Нажмите"
+
+#: inc/admin/admin.php:475 inc/admin/assets/demos.php:30
+#: inc/admin/assets/demos.php:55
+msgid "Free"
+msgstr "Free"
+
+#: inc/admin/admin.php:417
+msgid "Install"
+msgstr "Установка"
+
+#: inc/admin/admin.php:412
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: inc/customizer/helpers.php:143 inc/customizer/helpers.php:146
+#: inc/customizer/helpers.php:258
+msgid "Menu Options"
+msgstr "Параметры меню"
+
+#: inc/customizer/helpers.php:1664 inc/customizer/helpers.php:1675
+msgid "Hover Effect"
+msgstr "Эффект при наведении"
+
+#: inc/customizer/helpers.php:165 inc/customizer/helpers.php:1099
+msgid "Ticker News"
+msgstr "Бегущая строка новостей"
+
+#: inc/customizer/helpers.php:2393 inc/customizer/helpers.php:2397
+#: inc/customizer/helpers.php:2401 inc/customizer/helpers.php:2405
+#: inc/customizer/helpers.php:2417 inc/customizer/helpers.php:2452
+msgid "Posts Categories"
+msgstr "Рубрики записей"
+
+#: inc/customizer/helpers.php:173 inc/customizer/helpers.php:1107
+msgid "Main Banner"
+msgstr "Главный баннер"
+
+#: inc/customizer/helpers.php:508
+msgid "Show main banner"
+msgstr "Показать главный баннер"
+
+#: inc/widgets/posts-grid-two-column.php:125
+msgid "Show post categories"
+msgstr "Показывать рубрики записи"
+
+#: inc/customizer/helpers.php:1402
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: inc/customizer/helpers.php:2677
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer/helpers.php:2678
+msgid "Add %year% to retrieve current year."
+msgstr "Добавьте %year%, чтобы получить текущий год."
+
+#: inc/customizer/helpers.php:443 inc/customizer/helpers.php:1150
+#: inc/customizer/helpers.php:1187
+msgid "Title"
+msgstr "Название"
+
+#: inc/customizer/helpers.php:1153 inc/customizer/helpers.php:1193
+msgid "Meta"
+msgstr "Мета"
+
+#: inc/customizer/helpers.php:1156
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer/helpers.php:1159 inc/customizer/helpers.php:2930
+#: inc/customizer/helpers.php:3055
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customizer/helpers.php:338 inc/widgets/author-info.php:101
+#: inc/widgets/author-info.php:102
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: inc/customizer/helpers.php:1138 inc/customizer/helpers.php:1174
+msgid "Read Time"
+msgstr "Время прочтения"
+
+#: inc/customizer/helpers.php:36
+msgid "Single Post"
+msgstr "Отдельная запись"
+
+#: inc/widgets/carousel.php:101 inc/widgets/posts-grid-two-column.php:111
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/hooks/header-hooks.php:59
+msgid "Menu"
+msgstr "Меню"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:111 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:96
+msgid "Tagged: %1$s"
+msgstr "Отмечено: %1$s"
+
+#: inc/template-tags.php:171 inc/template-tags.php:182
+msgid "ago"
+msgstr "тому назад"
+
+#: inc/hooks/frontpage-sections-hook.php:50
+msgid "Headlines"
+msgstr "Заголовки"
+
+#: inc/customizer/helpers.php:1141 inc/customizer/helpers.php:1177
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/widgets/author-info.php:94 inc/widgets/carousel.php:94
+#: inc/widgets/posts-grid-two-column.php:104
+#: inc/widgets/social-platforms.php:37
+msgid "Widget Title"
+msgstr "Название виджета"
+
+#: inc/widgets/author-info.php:96
+msgid "Author Info"
+msgstr "Инфо об авторе"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:288
+msgid "404 Not Found"
+msgstr "Не найдено 404"
+
+#: inc/widgets/author-info.php:107
+msgid "Author Image"
+msgstr "Изображение автора"
+
+#: inc/widgets/author-info.php:112
+msgid "Author Tag"
+msgstr "Метка автора"
+
+#: inc/widgets/author-info.php:113
+msgid "Writer"
+msgstr "Писатель"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: inc/widgets/author-info.php:118
+msgid "Author URL"
+msgstr "URL автора"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: inc/widgets/author-info.php:124
+msgid "Description"
+msgstr "Описание"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:285
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:286
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навигационные цепочки"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:287
+msgid "Home"
+msgstr "Главная"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:289
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/widgets/carousel.php:16
+msgid "A collection of posts from specific category for carousel slide."
+msgstr "Сборник записей из определенной рубрики для слайд карусели."
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail/breadcrumbs.php:293
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail/breadcrumbs.php:295
+msgid "Comment Page %s"
+msgstr "Страница комментария %s"
+
+#: inc/widgets/carousel.php:96
+msgid "Highlights"
+msgstr "Выделенное"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:759
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:776
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:793
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: inc/customizer/helpers.php:1111 inc/widgets/category-collection.php:92
+msgid "Category Collection"
+msgstr "Сборник рубрик"
+
+#: inc/widgets/category-collection.php:97 inc/widgets/post-grid.php:115
+#: inc/widgets/post-list.php:105
+msgid "Post Categories"
+msgstr "Рубрики записи"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:810
+#: inc/breadcrumb-trail/breadcrumbs.php:866
+#: inc/breadcrumb-trail/breadcrumbs.php:1239
+#: inc/breadcrumb-trail/breadcrumbs.php:1241
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:811
+#: inc/breadcrumb-trail/breadcrumbs.php:1246
+#: inc/breadcrumb-trail/breadcrumbs.php:1248
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:839
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/customizer/custom-controls/repeater/repeater.php:129
+msgid "Item Label"
+msgstr "Этикетка элемента"
+
+#: inc/customizer/custom-controls/repeater/repeater.php:165
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/customizer/customizer.php:18 inc/customizer/helpers.php:1957
+#: inc/customizer/helpers.php:2002 inc/customizer/helpers.php:2028
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/helpers.php:2877
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: inc/customizer/helpers.php:1899 inc/customizer/helpers.php:1944
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer/helpers.php:941
+msgid "We have well prepared documentation which includes overall instructions and recommendations that are required in this theme."
+msgstr "У нас есть хорошо подготовленная документация, которая включает общие инструкции и рекомендации, необходимые по этой теме."
+
+#: inc/customizer/helpers.php:944
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/widgets/post-grid.php:128 inc/widgets/post-list.php:118
+#: inc/widgets/posts-grid-two-column.php:118
+msgid "Number of posts to show"
+msgstr "Кол-во записей для показа"
+
+#: inc/customizer/helpers.php:950
+msgid "Theme Support"
+msgstr "Поддержка темы"
+
+#: inc/customizer/helpers.php:951
+msgid "We provide 24/7 support regarding any theme issue. Our support team will help you to solve any kind of issue. Feel free to contact us."
+msgstr "Мы обеспечиваем круглосуточную поддержку по любому вопросу темы. Наша служба поддержки поможет вам решить любую проблему. Не стесняйтесь связаться с нами."
+
+#: inc/customizer/helpers.php:954
+msgid "Support Form"
+msgstr "Форма поддержки"
+
+#: inc/widgets/social-platforms.php:39
+msgid "Find Me On"
+msgstr "Найдите меня на"
+
+#: inc/widgets/social-platforms.php:44
+msgid "Inherit global default social icons color"
+msgstr "Наследовать глобальный цвет значков соцсетей по умолчанию"
+
+#: inc/customizer/helpers.php:72
+msgid "SEO / Misc"
+msgstr "SEO / Разное"
+
+#: inc/widgets/social-platforms.php:65
+msgid "Manage social icons from customizer "
+msgstr "Управление значками соцсетей из настройки темы "
+
+#: inc/customizer/helpers.php:517
+msgid "Make website schema ready"
+msgstr "Подготовить сайт к работе с schema"
+
+#: inc/widgets/social-platforms.php:66
+msgid "go to manage social icons"
+msgstr "перейти к управлению значками соцсетей"
+
+#: inc/customizer/helpers.php:875
+msgid "Date to display"
+msgstr "Дата для отображения"
+
+#: inc/customizer/helpers.php:876
+msgid "Whether to show date published or modified date."
+msgstr "Показывать дату публикации или дату изменения."
+
+#: inc/customizer/helpers.php:880
+msgid "Published date"
+msgstr "Дата публикации"
+
+#: inc/customizer/helpers.php:884
+msgid "Modified date"
+msgstr "Дата изменения"
+
+#: inc/customizer/helpers.php:1775
+msgid "Date format"
+msgstr "Формат даты"
+
+#: inc/customizer/helpers.php:1776
+msgid "Date format applied to single and archive pages."
+msgstr "Формат даты, применяемый к отдельным и архивным страницам."
+
+#: inc/customizer/helpers.php:1778
+msgid "Default by theme"
+msgstr "По умолчанию в теме"
+
+#: inc/customizer/helpers.php:1779
+msgid "Wordpress default date"
+msgstr "По умолчанию в WordPress"
+
+#: inc/widgets/widget-fields.php:127
+msgid "Add image"
+msgstr "Добавить изображение"
+
+#: inc/widgets/widget-fields.php:131
+#: inc/customizer/assets/customizer-extends.js:7884
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: inc/customizer/helpers.php:1877
+msgid "Gradient Presets"
+msgstr "Предустановки градиента"
+
+#: inc/widgets/posts-grid-two-column.php:106
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: inc/widgets/widgets.php:17
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: inc/widgets/widgets.php:19 inc/widgets/widgets.php:32
+#: inc/widgets/widgets.php:45 inc/widgets/widgets.php:58
+#: inc/widgets/widgets.php:71 inc/widgets/widgets.php:84
+#: inc/widgets/widgets.php:97
+msgid "Add widgets here."
+msgstr "Добавить виджеты здесь."
+
+#: inc/customizer/helpers.php:76
+msgid "Preloader"
+msgstr "Анимация загрузки"
+
+#: inc/customizer/helpers.php:526
+msgid "Enable site preloader"
+msgstr "Включать анимацию загрузки"
+
+#: inc/customizer/helpers.php:80 inc/customizer/helpers.php:1366
+msgid "Website Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer/helpers.php:1439 inc/customizer/helpers.php:1544
+#: inc/customizer/helpers.php:1558 inc/customizer/helpers.php:2218
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: inc/customizer/helpers.php:83
+msgid "Animation / Hover Effects"
+msgstr "Эффекты: анимация/наведение"
+
+#: inc/widgets/widgets.php:56
+msgid "Footer Sidebar - Column 1"
+msgstr "Боковая панель подвала – столбец 1"
+
+#: inc/customizer/helpers.php:1784
+msgid "Applied to post titles listed in archive pages."
+msgstr "Применяется к заголовкам записи на страницах архива."
+
+#: inc/widgets/widgets.php:69
+msgid "Footer Sidebar - Column 2"
+msgstr "Боковая панель подвала – столбец 2"
+
+#: inc/customizer/helpers.php:1666 inc/customizer/helpers.php:1677
+#: inc/customizer/helpers.php:1734 inc/customizer/helpers.php:1786
+#: inc/customizer/helpers.php:1795 inc/customizer/helpers.php:1804
+#: inc/customizer/helpers.php:1821 inc/customizer/helpers.php:1833
+#: inc/customizer/helpers.php:1849 inc/template-functions.php:727
+msgid "None"
+msgstr "Отсутствует"
+
+#: inc/widgets/widgets.php:82
+msgid "Footer Sidebar - Column 3"
+msgstr "Боковая панель подвала – столбец 3"
+
+#: inc/customizer/helpers.php:1787 inc/customizer/helpers.php:1796
+msgid "Effect One"
+msgstr "1-й эффект"
+
+#: inc/widgets/widgets.php:95
+msgid "Footer Sidebar - Column 4"
+msgstr "Боковая панель подвала – столбец 4"
+
+#: inc/customizer/helpers.php:1792
+msgid "Image hover effects"
+msgstr "Эффекты при наведении изображения"
+
+#: inc/customizer/helpers.php:1793
+msgid "Applied to post thumbanails listed in archive pages."
+msgstr "Применяется к миниатюрам записей на страницах архива."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: inc/template-functions.php:1007 template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:49
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#: template-parts/content-page.php:27 template-parts/content-single.php:73
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/customizer/helpers.php:2097 inc/customizer/helpers.php:2118
+msgid "Add New Icon"
+msgstr "Добавить новый значок"
+
+#: inc/customizer/helpers.php:2101 inc/customizer/helpers.php:2122
+msgid "Social Icon"
+msgstr "Значок соцсети"
+
+#: inc/template-functions.php:1079 inc/template-functions.php:1103
+#: inc/template-functions.php:1107
+msgid "Clear"
+msgstr "Очистить"
+
+#: inc/customizer/helpers.php:1467 inc/customizer/helpers.php:1502
+#: inc/customizer/helpers.php:1523 inc/widgets/widgets.php:30
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer/helpers.php:1602 inc/customizer/helpers.php:2157
+#: inc/customizer/assets/customizer-extends.js:7589
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/customizer/helpers.php:1463 inc/customizer/helpers.php:1498
+#: inc/customizer/helpers.php:1519
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/helpers.php:102
+msgid "Breadcrumb Options"
+msgstr "Параметры навигационной цепочки"
+
+#: inc/customizer/helpers.php:600
+msgid "Show breadcrumb trails"
+msgstr "Показать навигационные цепочки"
+
+#: inc/customizer/helpers.php:1809
+msgid "Breadcrumb type"
+msgstr "Тип навигационной цепочки"
+
+#: inc/customizer/helpers.php:1810
+msgid "If you use other than \"default\" one you will need to install and activate respective plugins Breadcrumb NavXT, Yoast SEO and Rank Math SEO"
+msgstr "Если вы используете вариант, отличный от «по умолчанию», вам необходимо установить и активировать соответствующие плагины Breadcrumb NavXT, Yoast SEO и Rank Math SEO"
+
+#: inc/admin/admin.php:481 inc/customizer/helpers.php:1746
+#: inc/customizer/helpers.php:1812
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/helpers.php:1813
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/helpers.php:1814
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: inc/customizer/helpers.php:1815
+msgid "Rank Math"
+msgstr "Rank Math"
+
+#: inc/customizer/helpers.php:105
+msgid "Scroll To Top"
+msgstr "Прокрутка вверх"
+
+#: inc/customizer/helpers.php:641 inc/customizer/helpers.php:684
+#: inc/customizer/helpers.php:700 inc/customizer/helpers.php:716
+#: inc/customizer/helpers.php:733 inc/customizer/helpers.php:749
+#: inc/customizer/helpers.php:765
+msgid "General"
+msgstr "Общие"
+
+#: inc/customizer/helpers.php:645 inc/customizer/helpers.php:688
+#: inc/customizer/helpers.php:704 inc/customizer/helpers.php:720
+#: inc/customizer/helpers.php:737 inc/customizer/helpers.php:753
+#: inc/customizer/helpers.php:769
+msgid "Design"
+msgstr "Дизайн"
+
+#: inc/customizer/helpers.php:856 inc/customizer/helpers.php:919
+#: inc/customizer/helpers.php:2695
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer/helpers.php:861 inc/customizer/helpers.php:2700
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/helpers.php:866 inc/customizer/helpers.php:924
+#: inc/customizer/helpers.php:2705
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer/helpers.php:804 inc/customizer/helpers.php:810
+#: inc/customizer/helpers.php:816 inc/customizer/helpers.php:823
+#: inc/customizer/helpers.php:829 inc/customizer/helpers.php:835
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: inc/customizer/helpers.php:1914 inc/customizer/helpers.php:1974
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: inc/customizer/render.php:67
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/customizer/helpers.php:1048
+msgid "Site Title & Tagline"
+msgstr "Название и краткое описание сайта"
+
+#: inc/customizer/render.php:78
+msgid "Display site title"
+msgstr "Отображение названия сайта"
+
+#: inc/customizer/helpers.php:1217 inc/customizer/helpers.php:1273
+msgid "Logo Width (px)"
+msgstr "Ширина логотипа (px)"
+
+#: inc/customizer/helpers.php:464
+msgid "Display site description"
+msgstr "Отображение описания сайта"
+
+#: inc/customizer/render.php:72
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: inc/customizer/helpers.php:2076
+msgid "Site Title Hover Color"
+msgstr "Цвет названия сайта при наведении"
+
+#: inc/customizer/helpers.php:2079
+msgid "Site Description Color"
+msgstr "Цвет описания сайта"
+
+#: inc/customizer/helpers.php:24
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer/helpers.php:1805
+msgid "Animation 1"
+msgstr "Анимация 1"
+
+#: inc/customizer/helpers.php:28
+msgid "Frontpage Sections"
+msgstr "Разделы главной страницы"
+
+#: inc/customizer/helpers.php:2945 inc/customizer/helpers.php:2971
+#: inc/customizer/helpers.php:3050
+msgid "Secondary Menu"
+msgstr "Вторичное меню"
+
+#: inc/customizer/helpers.php:2956
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer/helpers.php:51
+msgid "About Theme"
+msgstr "О теме"
+
+#: functions.php:565
+msgid "VK"
+msgstr "ВКонтакте"
+
+#: inc/customizer/helpers.php:2976
+msgid "Sidebar 1"
+msgstr "Боковая панель 1"
+
+#: functions.php:569
+msgid "Line"
+msgstr "Строка"
+
+#: inc/customizer/helpers.php:2981
+msgid "Sidebar 2"
+msgstr "Боковая панель 2"
+
+#: inc/customizer/helpers.php:1819
+msgid "Animation Type"
+msgstr "Тип анимации"
+
+#: inc/customizer/helpers.php:2986
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: inc/customizer/helpers.php:1481
+msgid "Single Layout"
+msgstr "Отдельный макет"
+
+#: inc/customizer/helpers.php:2996
+msgid "Scroll to Top"
+msgstr "Прокрутить вверх"
+
+#: functions.php:581
+msgid "Evernote"
+msgstr "Evernote"
+
+#: inc/extras/extras.php:30
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/helpers.php:1484
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/extras/extras.php:31
+msgid "H2"
+msgstr "H2"
+
+#: functions.php:585
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: inc/extras/extras.php:32
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/helpers.php:1488
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/extras/extras.php:33
+msgid "H4"
+msgstr "H4"
+
+#: functions.php:589 functions.php:593
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+#: inc/extras/extras.php:34
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/helpers.php:1537 inc/customizer/helpers.php:1551
+msgid "Section Width"
+msgstr "Ширина раздела"
+
+#: inc/extras/extras.php:35
+msgid "H6"
+msgstr "H6"
+
+#: functions.php:597
+msgid "Viber"
+msgstr "Viber"
+
+#: inc/extras/helpers.php:55
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: inc/customizer/helpers.php:622
+msgid "Enable Time"
+msgstr "Включить время"
+
+#: inc/customizer/helpers.php:1590
+msgid "Standard"
+msgstr "Стадартный"
+
+#: inc/customizer/helpers.php:94
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/customizer/helpers.php:625
+msgid "Enable Date"
+msgstr "Включить дату"
+
+#: functions.php:609
+msgid "Flipboard"
+msgstr "Flipboard"
+
+#: inc/customizer/helpers.php:1831
+msgid "Background animation"
+msgstr "Анимация фона"
+
+#: inc/customizer/helpers.php:1594
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/customizer/helpers.php:692 inc/customizer/helpers.php:708
+#: inc/customizer/helpers.php:724 inc/customizer/helpers.php:741
+#: inc/customizer/helpers.php:757 inc/customizer/helpers.php:773
+msgid "Column"
+msgstr "Столбец"
+
+#: functions.php:613 functions.php:617
+msgid "Xing"
+msgstr "XING"
+
+#: inc/customizer/helpers.php:116 inc/customizer/helpers.php:286
+#: inc/customizer/helpers.php:310 inc/customizer/helpers.php:313
+#: inc/customizer/helpers.php:317 inc/customizer/helpers.php:410
+#: inc/customizer/helpers.php:446 inc/customizer/helpers.php:987
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/helpers.php:1598
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/customizer/helpers.php:124
+msgid "Mobile Options"
+msgstr "Параметры для мобильных"
+
+#: inc/metabox/metabox.php:19 inc/metabox/metabox.php:34
+msgid "Layouts"
+msgstr "Макеты"
+
+#: functions.php:621
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/customizer/helpers.php:1904 inc/customizer/helpers.php:1909
+#: inc/customizer/helpers.php:1994 inc/customizer/helpers.php:2020
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/helpers.php:1606
+msgid "Quote"
+msgstr "Цитата"
+
+#: functions.php:633
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer/helpers.php:149 inc/customizer/helpers.php:2920
+#: inc/customizer/helpers.php:3040 searchform.php:20
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/helpers.php:1610
+msgid "Video"
+msgstr "Видео"
+
+#: inc/customizer/helpers.php:1934
+msgid "Icon Text"
+msgstr "Текст значка"
+
+#: inc/metabox/metabox.php:28
+msgid "Post Metas"
+msgstr "Метаданные записи"
+
+#. translators: %s: search query.
+#: search.php:36
+msgid "Search Results for"
+msgstr "Результаты поиска для"
+
+#: inc/customizer/helpers.php:155 inc/customizer/helpers.php:2935
+#: inc/customizer/helpers.php:3060
+msgid "Theme Mode"
+msgstr "Режим темы"
+
+#: inc/customizer/helpers.php:1939
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: inc/customizer/helpers.php:1624
+msgid "Button Label"
+msgstr "Этикетка кнопки"
+
+#: search.php:62
+msgid "Load More"
+msgstr "Загрузить ещё"
+
+#: inc/customizer/helpers.php:1633
+msgid "Section title"
+msgstr "Название раздела"
+
+#: inc/metabox/metabox.php:60
+msgid "Customizer"
+msgstr "Настройка темы"
+
+#. translators: Hidden accessibility text.
+#: searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: inc/customizer/helpers.php:1949
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: inc/customizer/helpers.php:161
+msgid "Sticky Posts"
+msgstr "Прикреплённые записи"
+
+#: inc/customizer/helpers.php:1962
+msgid "Date Color"
+msgstr "Цвет даты"
+
+#: functions.php:649
+msgid "SMS"
+msgstr "SMS"
+
+#: inc/customizer/helpers.php:1970
+msgid "Separator Color"
+msgstr "Цвет разделителя"
+
+#: functions.php:653 functions.php:657
+msgid "Wordpress"
+msgstr "WordPress"
+
+#: functions.php:661
+msgid "Copy"
+msgstr "Копировать"
+
+#: functions.php:665
+msgid "Print"
+msgstr "Распечатать"
+
+#: inc/customizer/helpers.php:177 inc/customizer/helpers.php:1115
+msgid "Carousel"
+msgstr "Карусель"
+
+#: functions.php:669
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/customizer/helpers.php:1667 inc/customizer/helpers.php:1678
+#: inc/customizer/helpers.php:1735 inc/customizer/helpers.php:1850
+msgid "Effect 1"
+msgstr "Эффект 1"
+
+#: inc/customizer/helpers.php:1668 inc/customizer/helpers.php:1679
+#: inc/customizer/helpers.php:1851
+msgid "Effect 2"
+msgstr "Эффект 2"
+
+#: inc/customizer/helpers.php:1669 inc/customizer/helpers.php:1680
+#: inc/customizer/helpers.php:1852
+msgid "Effect 3"
+msgstr "Эффект 3"
+
+#: inc/customizer/helpers.php:2053
+msgid "Footer Logo"
+msgstr "Логотип подвала"
+
+#: inc/metabox/metabox.php:97 inc/metabox/metabox.php:201
+#: inc/metabox/metabox.php:271
+msgid "Sidebar Layouts"
+msgstr "Макеты боковой панели"
+
+#: functions.php:681 functions.php:685
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: inc/customizer/helpers.php:190 inc/customizer/helpers.php:210
+#: inc/customizer/helpers.php:1035
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/metabox/metabox.php:209 inc/metabox/metabox.php:295
+msgid "Archive Layouts"
+msgstr "Макеты архива"
+
+#: inc/customizer/helpers.php:202
+msgid "Author Page"
+msgstr "Страница автора"
+
+#: inc/customizer/helpers.php:1670 inc/customizer/helpers.php:1681
+#: inc/customizer/helpers.php:1853
+msgid "Effect 4"
+msgstr "Эффект 4"
+
+#: inc/template-functions.php:132
+msgid "Newest - Oldest"
+msgstr "Самые новые → самые старые"
+
+#: inc/customizer/helpers.php:1686 inc/customizer/helpers.php:1719
+#: inc/customizer/helpers.php:1839
+msgid "Order by"
+msgstr "Упорядочить по"
+
+#: inc/customizer/helpers.php:206
+msgid "Pagination Settings"
+msgstr "Настройки пагинации"
+
+#: inc/template-functions.php:133
+msgid "Oldest - Newest"
+msgstr "Самые старые → самые новые"
+
+#: inc/customizer/helpers.php:218
+msgid "Related Posts"
+msgstr "Связанные записи"
+
+#: inc/customizer/helpers.php:1707 inc/customizer/helpers.php:1715
+#: inc/customizer/helpers.php:1728 inc/customizer/helpers.php:1740
+#: inc/customizer/helpers.php:1752 inc/customizer/helpers.php:1756
+#: inc/customizer/helpers.php:1764 inc/customizer/helpers.php:1843
+msgid "Image Sizes"
+msgstr "Размеры изображения"
+
+#: inc/template-functions.php:134
+msgid "Random"
+msgstr "Случайный"
+
+#: inc/customizer/helpers.php:1744
+msgid "Pagination Type"
+msgstr "Тип пагинации"
+
+#: inc/customizer/helpers.php:2129
+msgid "Count"
+msgstr "Подсчёт"
+
+#: inc/customizer/helpers.php:911
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/customizer/helpers.php:1747
+msgid "Number"
+msgstr "Число"
+
+#: inc/customizer/helpers.php:914
+msgid "Position"
+msgstr "Позиция"
+
+#: inc/template-functions.php:1054
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/customizer/helpers.php:221
+msgid "Page Settings"
+msgstr "Настройки страницы"
+
+#: inc/template-functions.php:1055
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/customizer/helpers.php:2162
+msgid "URL"
+msgstr "URL"
+
+#: inc/template-functions.php:1061
+msgid "Types"
+msgstr "Типы"
+
+#: inc/customizer/helpers.php:2170
+msgid "New tab"
+msgstr "Новая вкладка"
+
+#: inc/template-functions.php:1084
+msgid "Authors"
+msgstr "Авторы"
+
+#: inc/template-functions.php:1106
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/customizer/helpers.php:2171
+msgid "Same tab"
+msgstr "Та же вкладка"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:66
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer/helpers.php:984 inc/customizer/helpers.php:999
+#: inc/customizer/helpers.php:1005 inc/customizer/helpers.php:1014
+#: inc/customizer/helpers.php:1017 inc/customizer/helpers.php:1020
+#: inc/customizer/helpers.php:1032 inc/customizer/helpers.php:1058
+#: inc/widgets/post-grid.php:136 inc/widgets/post-list.php:126
+msgid "Image Settings"
+msgstr "Настройки изображения"
+
+#: inc/customizer/helpers.php:1002 inc/customizer/helpers.php:1052
+#: inc/customizer/helpers.php:1055
+msgid "Query Settings"
+msgstr "Настройки запроса"
+
+#: inc/customizer/helpers.php:1023
+msgid "Table of content"
+msgstr "Содержание"
+
+#: inc/customizer/helpers.php:320 inc/customizer/helpers.php:386
+#: inc/customizer/helpers.php:434
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: inc/customizer/helpers.php:1041
+msgid "Heading Typography"
+msgstr "Типографика заголовка"
+
+#: inc/customizer/helpers.php:2215
+msgid "Image Option"
+msgstr "Вариант изображения"
+
+#: inc/customizer/helpers.php:1119
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: inc/customizer/helpers.php:326
+msgid "Category Title"
+msgstr "Название рубрики"
+
+#: inc/customizer/helpers.php:1132 inc/customizer/helpers.php:1168
+msgid "Author"
+msgstr "Автор"
+
+#: inc/customizer/helpers.php:2219
+msgid "Original"
+msgstr "Оригинальный"
+
+#: inc/customizer/helpers.php:1135 inc/customizer/helpers.php:1171
+msgid "Date"
+msgstr "Дата"
+
+#: inc/customizer/helpers.php:2330
+msgid "Columns"
+msgstr "Столбцы"
+
+#: inc/customizer/helpers.php:368 inc/customizer/helpers.php:392
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/customizer/helpers.php:1224
+msgid "Icon Size (px)"
+msgstr "Размер значка (px)"
+
+#: inc/customizer/helpers.php:371 inc/customizer/helpers.php:395
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/customizer/helpers.php:1228 inc/customizer/helpers.php:1236
+#: inc/customizer/helpers.php:1239 inc/customizer/helpers.php:1258
+#: inc/customizer/helpers.php:1268 inc/customizer/helpers.php:1334
+#: inc/customizer/helpers.php:2257 inc/customizer/helpers.php:2272
+#: inc/customizer/helpers.php:2282 inc/customizer/helpers.php:2308
+#: inc/customizer/helpers.php:2352
+msgid "Border Radius (px)"
+msgstr "Радиус рамки (px)"
+
+#: inc/customizer/helpers.php:374 inc/customizer/helpers.php:398
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/customizer/helpers.php:1232
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: inc/customizer/helpers.php:377 inc/customizer/helpers.php:401
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/customizer/helpers.php:2372
+msgid "Redirect URL"
+msgstr "URL перенаправления"
+
+#: inc/customizer/helpers.php:380 inc/customizer/helpers.php:404
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: inc/customizer/helpers.php:1263
+msgid "Border Radius"
+msgstr "Радиус рамки"
+
+#: inc/customizer/helpers.php:383 inc/customizer/helpers.php:407
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: inc/customizer/helpers.php:1279
+msgid "Border radius"
+msgstr "Радиус рамки"
+
+#: inc/widgets/heading.php:32 inc/widgets/heading.php:33
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer/helpers.php:431 inc/customizer/helpers.php:2134
+msgid "Label"
+msgstr "Этикетка"
+
+#: inc/customizer/helpers.php:1351
+msgid "Sub Menu"
+msgstr "Подменю"
+
+#: inc/customizer/helpers.php:2565 inc/customizer/helpers.php:2571
+#: inc/customizer/helpers.php:2610
+msgid "Layout Three"
+msgstr "Макет третий"
+
+#: inc/customizer/helpers.php:2910 inc/customizer/helpers.php:3030
+msgid "Date Time"
+msgstr "Дата и время"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: inc/customizer/helpers.php:2925 inc/customizer/helpers.php:3045
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/customizer/helpers.php:2940 inc/customizer/helpers.php:3065
+msgid "Off Canvas"
+msgstr "Вне холста"
+
+#: inc/customizer/helpers.php:1354
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: inc/widgets/post-grid.php:110
+msgid "Post Grid"
+msgstr "Сетка записи"
+
+#: 404.php:28
+msgid "Back to Home"
+msgstr "Вернуться на главную"
+
+#: inc/customizer/helpers.php:1360
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/customizer/helpers.php:1363
+msgid "Admin Settings"
+msgstr "Настройки админа"
+
+#: inc/customizer/helpers.php:1369
+msgid "Block Title"
+msgstr "Название блока"
+
+#: functions.php:57
+msgid "Primary"
+msgstr "Основной"
+
+#: inc/customizer/helpers.php:1372
+msgid "Animation Settings"
+msgstr "Настройки анимации"
+
+#: inc/widgets/post-grid.php:141 inc/widgets/post-list.php:131
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: functions.php:60
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: inc/customizer/helpers.php:1375
+msgid "Theme Colors"
+msgstr "Цвета темы"
+
+#: inc/widgets/post-grid.php:148
+msgid "Image Ratio"
+msgstr "Пропорции изображения"
+
+#: functions.php:63
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer/helpers.php:1378
+msgid "Presets"
+msgstr "Предустановки"
+
+#: functions.php:449 functions.php:453 functions.php:457
+#: inc/theme-starter.php:85
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/helpers.php:1381
+msgid "Post Formats"
+msgstr "Форматы записей"
+
+#: functions.php:461 functions.php:465 functions.php:469
+#: inc/theme-starter.php:99
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/helpers.php:1384
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: inc/widgets/post-list.php:100
+msgid "Post List"
+msgstr "Список записей"
+
+#: functions.php:473 functions.php:477
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/customizer/helpers.php:1387
+msgid "Style Options"
+msgstr "Параметры стиля"
+
+#: functions.php:481 functions.php:485
+msgid "Envelope"
+msgstr "Конверт"
+
+#: functions.php:489 functions.php:493 inc/theme-starter.php:92
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions.php:497 functions.php:501
+msgid "Whatsapp"
+msgstr "WhatsApp"
+
+#: functions.php:505 functions.php:509 functions.php:513
+msgid "Reddit"
+msgstr "Reddit"
+
+#: functions.php:517
+msgid "Weixin"
+msgstr "WeChat"
+
+#: functions.php:521 functions.php:525
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/helpers.php:1446
+msgid "Archive Layout"
+msgstr "Макет архива"
+
+#: functions.php:529
+msgid "Weibo"
+msgstr "Weibo"
+
+#: inc/customizer/helpers.php:1449
+msgid "Grid"
+msgstr "Сетка"
+
+#: functions.php:533 functions.php:537 functions.php:541
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: functions.php:545
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer/helpers.php:1460 inc/customizer/helpers.php:1495
+#: inc/customizer/helpers.php:1516
+msgid "Sidebar Layout"
+msgstr "Макет боковой панели"
+
+#: functions.php:549
+msgid "Telegram"
+msgstr "Telegram"
+
+#: functions.php:553 functions.php:557 functions.php:561
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/category-collection.php:14
+msgid "A collection of post categories"
+msgstr "Сборник рубрик записи"
+
+#: inc/customizer/helpers.php:1244 inc/customizer/helpers.php:1251
+msgid "No. of columns"
+msgstr "Кол-во столбцов"
+
+#: inc/widgets/heading.php:14
+msgid "Heading for a section."
+msgstr "Заголовок к разделу."
+
+#: 404.php:18
+msgid "Oops! That page can't be found."
+msgstr "Упс! Страница не найдена."
+
+#: inc/widgets/post-grid.php:14
+msgid "A collection of post in a grid"
+msgstr "Сборник записи в сетке"
+
+#: inc/customizer/helpers.php:1357 inc/customizer/helpers.php:2856
+msgid "Typography Preset"
+msgstr "Типографика предустановок"
+
+#: inc/widgets/post-grid.php:122 inc/widgets/post-list.php:112
+msgid "Post to Include"
+msgstr "Запись для включения"
+
+#: inc/widgets/post-list.php:14
+msgid "A collection of post in a List"
+msgstr "Сборник записи в списке"
+
+#: inc/widgets/posts-grid-two-column.php:16
+msgid "A collection of posts from specific category displayed in grid two column layout."
+msgstr "Сборник записей из определенной рубрики, отображаемая в макете сетки из двух столбцов."
+
+#: inc/customizer/helpers.php:1407
+msgid "Manage canvas menu widget"
+msgstr "Управление виджетом меню холста"
+
+#: inc/customizer/helpers.php:1416
+msgid "Head to Archive"
+msgstr "Перейти к архиву"
+
+#: inc/widgets/social-platforms.php:14
+msgid "A collection of social platforms"
+msgstr "Сборник социальных платформ"
+
+#: inc/widgets/tags-collection.php:14
+msgid "A collection of post tags"
+msgstr "Сборник меток записи"
+
+#: inc/widgets/tags-collection.php:66
+msgid "Tags Collection"
+msgstr "Сборник тегов"
+
+#: inc/widgets/tags-collection.php:71
+msgid "Post tags"
+msgstr "Метки записи"
+
+#: inc/customizer/helpers.php:1580
+msgid "Choose Dark Icon"
+msgstr "Выбрать темный значок"
+
+#: functions.php:601
+msgid "Get Pocket"
+msgstr "Получить Pocket"
+
+#: inc/customizer/helpers.php:1585
+msgid "Choose Light Icon"
+msgstr "Выбрать светлый значок"
+
+#: inc/widgets/widgets.php:43
+msgid "Canvas Menu Sidebar"
+msgstr "Боковая панель меню холста"
+
+#: functions.php:625 functions.php:629
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: functions.php:637
+msgid "Buffer"
+msgstr "Buffer"
+
+#: functions.php:641
+msgid "Diaspora"
+msgstr "Diaspora"
+
+#: functions.php:645
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: inc/customizer/helpers.php:1636
+msgid "Related articles title"
+msgstr "Название связанных статей"
+
+#: inc/customizer/helpers.php:1654
+msgid "Site Title Tag (For Frontpage)"
+msgstr "Тег названия сайта (для главной страницы)"
+
+#: inc/customizer/helpers.php:1659
+msgid "Site Title Tag (For Innerpage)"
+msgstr "Тег названия сайта (для внутренней страницы)"
+
+#: functions.php:673
+msgid "Renren"
+msgstr "Renren"
+
+#: functions.php:677
+msgid "Trello"
+msgstr "Trello"
+
+#: inc/customizer/helpers.php:1689 inc/customizer/helpers.php:1722
+msgid "Ascending Count"
+msgstr "Восходящий счет"
+
+#: inc/customizer/helpers.php:1690 inc/customizer/helpers.php:1723
+msgid "Descending Name"
+msgstr "По убыванию"
+
+#: inc/customizer/helpers.php:1691 inc/customizer/helpers.php:1724
+msgid "Descending Count"
+msgstr "Нисходящий счет"
+
+#: inc/customizer/helpers.php:1732
+msgid "Hover effects"
+msgstr "Эффекты наведения"
+
+#: inc/customizer/helpers.php:1768
+msgid "Logo From"
+msgstr "Логотип из"
+
+#: inc/customizer/helpers.php:1770
+msgid "Default Site Logo"
+msgstr "Логотип сайта по умолчанию"
+
+#: inc/customizer/custom-controls/icon-picker/icon-picker.php:70
+msgid "Type to search . ."
+msgstr "Введите для поиска..."
+
+#: inc/widgets/author-info.php:119
+msgid "Add url here.."
+msgstr "Добавить URL здесь.."
+
+#: inc/customizer/helpers.php:2145
+msgid "Advertisements"
+msgstr "Реклама"
+
+#: inc/customizer/helpers.php:2195
+msgid "After post content"
+msgstr "После содержимого записи"
+
+#: inc/customizer/helpers.php:1834
+msgid "Animation 3"
+msgstr "Анимация 3"
+
+#: inc/customizer/helpers.php:1802
+msgid "Applied to mouse pointer."
+msgstr "Применяется к указателю мыши."
+
+#: inc/customizer/helpers.php:341
+msgid "Author Description Typo"
+msgstr "Типографика описания автора"
+
+#: inc/widgets/author-info.php:87
+msgid "Author to Display"
+msgstr "Автор для отображения"
+
+#: inc/customizer/helpers.php:416
+msgid "Author Typo"
+msgstr "Типографика автора"
+
+#: inc/customizer/helpers.php:2190
+msgid "Before post content"
+msgstr "Перед содержимым записи"
+
+#: inc/customizer/helpers.php:1453
+msgid "Block 2"
+msgstr "Блок 2"
+
+#: inc/customizer/helpers.php:1183
+msgid "Block Re-order"
+msgstr "Переупорядочивание блоков"
+
+#: inc/customizer/helpers.php:283 inc/customizer/helpers.php:359
+msgid "Block Title Typo"
+msgstr "Типографика названия блока"
+
+#: inc/widgets/carousel.php:15
+msgid "Blog Postx : Carousel Posts"
+msgstr "Blog Postx: карусель записей"
+
+#: inc/customizer/helpers.php:2205
+msgid "Ad Alignment"
+msgstr "Выравнивание рекламы"
+
+#: inc/customizer/helpers.php:2148
+msgid "Add New Advertisement"
+msgstr "Добавить новую рекламу"
+
+#: inc/customizer/helpers.php:2373
+msgid "Add url for the button to redirect"
+msgstr "Добавьте URL для кнопки перенаправления"
+
+#: inc/theme-starter.php:469
+msgid "Blog Postx - Blog WordPress Theme %year%."
+msgstr "Blog Postx - тема для блога WordPress %year%."
+
+#: inc/customizer/helpers.php:329
+msgid "Category Description Typo"
+msgstr "Типографика описания рубрики"
+
+#: inc/customizer/helpers.php:2413
+msgid "Category to exclude"
+msgstr "Рубрика для исключения"
+
+#: inc/customizer/helpers.php:2409 inc/customizer/helpers.php:2421
+msgid "Category to include"
+msgstr "Рубрика для включения"
+
+#: inc/customizer/helpers.php:428
+msgid "Category Typo"
+msgstr "Типографика рубрики"
+
+#: inc/customizer/helpers.php:2713 inc/customizer/helpers.php:2732
+#: inc/customizer/helpers.php:2751 inc/customizer/helpers.php:2770
+#: inc/customizer/helpers.php:2795 inc/customizer/helpers.php:2820
+msgid "Column 1 Alignment"
+msgstr "Выравнивание столбца 1"
+
+#: inc/customizer/helpers.php:2719 inc/customizer/helpers.php:2738
+#: inc/customizer/helpers.php:2757 inc/customizer/helpers.php:2776
+#: inc/customizer/helpers.php:2801 inc/customizer/helpers.php:2826
+msgid "Column 2 Alignment"
+msgstr "Выравнивание столбца 2"
+
+#: inc/customizer/helpers.php:2725 inc/customizer/helpers.php:2744
+#: inc/customizer/helpers.php:2763 inc/customizer/helpers.php:2782
+#: inc/customizer/helpers.php:2807 inc/customizer/helpers.php:2832
+msgid "Column 3 Alignment"
+msgstr "Выравнивание столбца 3"
+
+#: inc/customizer/helpers.php:2788 inc/customizer/helpers.php:2813
+#: inc/customizer/helpers.php:2838
+msgid "Column 4 Alignment"
+msgstr "Выравнивание столбца 4"
+
+#: inc/customizer/helpers.php:2631 inc/customizer/helpers.php:2635
+#: inc/customizer/helpers.php:2640 inc/customizer/helpers.php:2646
+#: inc/customizer/helpers.php:2651 inc/customizer/helpers.php:2657
+msgid "Column layout"
+msgstr "Макет столбца"
+
+#: inc/customizer/helpers.php:422
+msgid "Comments Typo"
+msgstr "Типографика комментария"
+
+#: inc/customizer/helpers.php:1147
+msgid "Content Re-order"
+msgstr "Переупорядочивание содержимого"
+
+#: inc/customizer/helpers.php:347
+msgid "Content Typo"
+msgstr "Типографика содержимого"
+
+#: inc/extras/helpers.php:386
+msgid "continue Reading.."
+msgstr "Продолжить чтение..."
+
+#: inc/customizer/helpers.php:1801
+msgid "Cursor animation"
+msgstr "Анимация курсора"
+
+#: inc/customizer/helpers.php:152
+msgid "Custom Button"
+msgstr "Пользовательская кнопка"
+
+#: inc/customizer/helpers.php:1919
+msgid "Dark Icon Color"
+msgstr "Темный цвет значка"
+
+#: inc/customizer/helpers.php:419
+msgid "Date Typo"
+msgstr "Типографика даты"
+
+#: inc/customizer/helpers.php:521
+msgid "Disabled the theme admin notices"
+msgstr "Отключены уведомления админа темы"
+
+#: inc/customizer/helpers.php:2186 inc/theme-starter.php:554
+#: inc/theme-starter.php:568
+msgid "Display Area"
+msgstr "Область отображения"
+
+#: inc/customizer/helpers.php:619
+msgid "Display Count"
+msgstr "Показывать количество"
+
+#: inc/customizer/helpers.php:1096
+msgid "Drag to re-order the sections."
+msgstr "Перетащите, чтобы изменить порядок разделов."
+
+#: inc/customizer/helpers.php:213 inc/customizer/helpers.php:1011
+msgid "Elements Settings"
+msgstr "Настройки элементов"
+
+#: inc/customizer/helpers.php:514
+msgid "Enable category collection"
+msgstr "Включить сборник рубрик"
+
+#: inc/customizer/helpers.php:560
+msgid "Enable Header Section Sticky"
+msgstr "Включить закрепление раздела заголовка"
+
+#: inc/customizer/helpers.php:563
+msgid "Enable Header Sticky in 1st row"
+msgstr "Включить прикреплённый заголовок в 1-е строке"
+
+#: inc/customizer/helpers.php:570
+msgid "Enable Header Sticky in 2nd row"
+msgstr "Включить прикреплённый заголовок в 2-й строке"
+
+#: inc/customizer/helpers.php:544
+msgid "Enable you may have missed section"
+msgstr "Включите, возможно, Вы пропустили раздел"
+
+#: inc/customizer/helpers.php:301 inc/customizer/helpers.php:323
+msgid "Excerpt Typo"
+msgstr "Типографика отрывка"
+
+#: inc/customizer/helpers.php:2209
+msgid "fa-solid fa-align-center"
+msgstr "fa-solid fa-align-center"
+
+#: inc/customizer/helpers.php:2208
+msgid "fa-solid fa-align-left"
+msgstr "fa-solid fa-align-left"
+
+#: inc/customizer/helpers.php:2210
+msgid "fa-solid fa-align-right"
+msgstr "fa-solid fa-align-right"
+
+#: inc/customizer/helpers.php:240
+msgid "Footer First Row"
+msgstr "Первая строка подвала"
+
+#: inc/customizer/helpers.php:249
+msgid "Footer Logo Settings"
+msgstr "Настройки логотипа подвала"
+
+#: inc/customizer/helpers.php:243
+msgid "Footer Second Row"
+msgstr "Вторая строка подвала"
+
+#: inc/customizer/helpers.php:246
+msgid "Footer Third Row"
+msgstr "Третья строка подвала"
+
+#: inc/customizer/helpers.php:2881
+msgid "Gradient Theme Color"
+msgstr "Градиентный цвет темы"
+
+#: inc/customizer/helpers.php:230
+msgid "Header First Row"
+msgstr "Первая строка заголовка"
+
+#: inc/customizer/helpers.php:233
+msgid "Header Second Row"
+msgstr "Вторая строка заголовка"
+
+#: inc/customizer/helpers.php:236
+msgid "Header Third Row"
+msgstr "Третья строка заголовка"
+
+#: inc/customizer/helpers.php:585 inc/customizer/helpers.php:588
+#: inc/customizer/helpers.php:591 inc/customizer/helpers.php:594
+#: inc/customizer/helpers.php:607 inc/customizer/helpers.php:613
+msgid "Hide posts with no featured image"
+msgstr "Скрыть запись без изображения записи"
+
+#: inc/customizer/helpers.php:1847
+msgid "Hover Effects"
+msgstr "Эффекты наведения"
+
+#: inc/customizer/helpers.php:1901
+msgid "If background image is set, this will act as overlay."
+msgstr "Если установлено фоновое изображение, оно будет действовать как наложение."
+
+#: inc/customizer/helpers.php:2315
+msgid "Image Border Radius (px)"
+msgstr "Радиус рамки изображения (px)"
+
+#: inc/customizer/helpers.php:2347
+msgid "Image Radius"
+msgstr "Радиус изображения"
+
+#: inc/customizer/helpers.php:1008
+msgid "Layouts Settings"
+msgstr "Настройки макетов"
+
+#: inc/customizer/helpers.php:1924
+msgid "Light Icon Color"
+msgstr "Светлый цвет значка"
+
+#: inc/widgets/author-info.php:125
+msgid "Lorem ipsum is simply dummy text is simply dummy text Lorem ipsum is simply dummy text.."
+msgstr "Lorem ipsum - это просто фиктивный текст Lorem ipsum - это просто фиктивный текст."
+
+#: inc/customizer/helpers.php:255
+msgid "Mobile Canvas"
+msgstr "Холст для мобильного"
+
+#: inc/template-functions.php:1008
+msgid "No more results"
+msgstr "Нет больше результатов"
+
+#: inc/customizer/helpers.php:2287
+msgid "No of Columns"
+msgstr "Кол-во столбцов"
+
+#: inc/template-functions.php:945
+msgid "No posts to append."
+msgstr "Нет записей для добавления."
+
+#: inc/template-functions.php:891
+msgid "No stories found"
+msgstr "Истории не найдены"
+
+#: inc/customizer/helpers.php:350
+msgid "Page Title Typo"
+msgstr "Типографика названия страницы"
+
+#: inc/customizer/helpers.php:389
+msgid "Pagination typo"
+msgstr "Типографика пагинации"
+
+#: inc/customizer/helpers.php:892
+msgid "Post content alignment"
+msgstr "Выравнивание содержимого записи"
+
+#: inc/customizer/helpers.php:981 inc/customizer/helpers.php:996
+#: inc/customizer/helpers.php:1029
+msgid "Post Elements Settings"
+msgstr "Настройки элементов записи"
+
+#: inc/extras/helpers.php:147 inc/extras/helpers.php:151
+msgid " min"
+msgstr " мин"
+
+#: inc/extras/helpers.php:153
+msgid " mins"
+msgstr " минут"
+
+#: inc/widgets/author-info.php:95 inc/widgets/carousel.php:95
+#: inc/widgets/category-collection.php:91 inc/widgets/post-grid.php:109
+#: inc/widgets/post-list.php:99 inc/widgets/posts-grid-two-column.php:105
+#: inc/widgets/social-platforms.php:38 inc/widgets/tags-collection.php:65
+msgid "Add the widget title here"
+msgstr "Добавить названия виджета здесь"
+
+#: inc/widgets/widget-fields.php:98
+msgid "Add url here . ."
+msgstr "Добавить URL сюда.."
+
+#: inc/customizer/helpers.php:112 inc/customizer/helpers.php:1123
+#: inc/customizer/helpers.php:2147
+msgid "Advertisement"
+msgstr "Рекламное объявление"
+
+#: inc/customizer/helpers.php:1688 inc/customizer/helpers.php:1721
+msgid "Ascending Name"
+msgstr "По возрастанию"
+
+#: inc/customizer/helpers.php:32
+msgid "Blog / Archives"
+msgstr "Блог и архивы"
+
+#: functions.php:573 functions.php:577
+msgid "Blogger"
+msgstr "Blogger"
+
+#: inc/customizer/helpers.php:799
+msgid "Border Radius ( Px )"
+msgstr "Радиус рамки (px)"
+
+#: inc/customizer/helpers.php:1471 inc/customizer/helpers.php:1506
+#: inc/customizer/helpers.php:1527
+msgid "Both Sidebar"
+msgstr "Обе боковые панели"
+
+#: inc/customizer/helpers.php:1435 inc/customizer/helpers.php:1540
+#: inc/customizer/helpers.php:1554
+msgid "Boxed"
+msgstr "Блоками"
+
+#: inc/customizer/helpers.php:1929
+msgid "Canvas Menu Icon Color"
+msgstr "Цвет значка меню на холсте"
+
+#: inc/customizer/helpers.php:898
+msgid "Canvas Position"
+msgstr "Позиция холста"
+
+#: inc/customizer/helpers.php:1190
+msgid "Category"
+msgstr "Категория"
+
+#: inc/customizer/helpers.php:133
+msgid "Category Colors"
+msgstr "Цвета рубрик"
+
+#: inc/customizer/helpers.php:194
+msgid "Category Page"
+msgstr "Страница рубрики"
+
+#: inc/customizer/helpers.php:181
+msgid "Category collection"
+msgstr "Сборник рубрик"
+
+#: inc/widgets/category-collection.php:98
+msgid "Choose the caategories to display"
+msgstr "Выберите рубрики для отображения"
+
+#: inc/widgets/carousel.php:102
+msgid "Choose the category to display for carousel posts"
+msgstr "Выбрать рубрику для отображения записей в карусели"
+
+#: inc/widgets/post-grid.php:116 inc/widgets/post-list.php:106
+#: inc/widgets/posts-grid-two-column.php:112
+msgid "Choose the category to display list of posts"
+msgstr "Выбрать рубрику для отображения списка записей"
+
+#: inc/widgets/post-grid.php:123 inc/widgets/post-list.php:113
+msgid "Choose the posts to display in the list of posts"
+msgstr "Выберите записи, которые будут отображаться в списке записей"
+
+#: inc/widgets/tags-collection.php:72
+msgid "Choose the tags to display"
+msgstr "Выберите метки для отображения"
+
+#: inc/customizer/helpers.php:1979 inc/customizer/helpers.php:1984
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/helpers.php:1285 inc/customizer/helpers.php:1293
+#: inc/customizer/helpers.php:1301 inc/customizer/helpers.php:1310
+#: inc/customizer/helpers.php:1318 inc/customizer/helpers.php:1326
+msgid "Column count"
+msgstr "Количество столбцов"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:59 template-parts/content.php:38
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer/helpers.php:2966
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/helpers.php:1771 inc/metabox/metabox.php:61
+#: inc/widgets/author-info.php:77
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: inc/widgets/author-info.php:88
+msgid "Custom will allow you to diplay below custom content to add."
+msgstr "Пользовательский позволит отобразить ниже пользовательское содержимое для добавления."
+
+#: inc/customizer/helpers.php:140
+msgid "Date / Time"
+msgstr "Дата / Время"
+
+#: inc/customizer/helpers.php:616
+msgid "Display Label"
+msgstr "Отображение заголовка"
+
+#: inc/customizer/helpers.php:1824
+msgid "Effect Three"
+msgstr "Третий эффект"
+
+#: inc/customizer/helpers.php:1823
+msgid "Effect Two"
+msgstr "2-й эффект"
+
+#: inc/customizer/helpers.php:851
+msgid "Elements Alignment"
+msgstr "Выравнивание элементов"
+
+#: inc/customizer/helpers.php:577
+msgid "Enable Header Sticky in 3rd row"
+msgstr "Включить прикреплённый заголовок в 3-й строке"
+
+#: inc/customizer/helpers.php:59 inc/customizer/helpers.php:67
+msgid "Footer Builder"
+msgstr "Построитель подвала"
+
+#: inc/customizer/helpers.php:252
+msgid "Footer Copyright"
+msgstr "Текст авторского права в подвале"
+
+#: inc/customizer/helpers.php:20
+msgid "Global"
+msgstr "Глобально"
+
+#: inc/customizer/helpers.php:55 inc/customizer/helpers.php:63
+msgid "Header Builder"
+msgstr "Построитель заголовка"
+
+#: inc/customizer/helpers.php:2095 inc/customizer/helpers.php:2116
+#: inc/customizer/helpers.php:2146
+msgid "Hold and drag vertically to re-order the icons"
+msgstr "Удерживайте и перетащите вертикально, чтобы изменить порядок значков"
+
+#: inc/customizer/helpers.php:2535 inc/customizer/helpers.php:2541
+#: inc/customizer/helpers.php:2553 inc/customizer/helpers.php:2580
+#: inc/customizer/helpers.php:2586 inc/customizer/helpers.php:2598
+#: inc/customizer/helpers.php:2604
+msgid "Layout One"
+msgstr "1-й макет"
+
+#: inc/customizer/helpers.php:2547 inc/customizer/helpers.php:2559
+#: inc/customizer/helpers.php:2592 inc/customizer/helpers.php:2616
+#: inc/customizer/helpers.php:2622
+msgid "Layout Two"
+msgstr "2-й макет"
+
+#: inc/customizer/helpers.php:1044
+msgid "Logo & Site Icon"
+msgstr "Логотип и значок сайта"
+
+#: inc/customizer/helpers.php:289
+msgid "Main Menu Typography"
+msgstr "Типографика главного меню"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail/breadcrumbs.php:297
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#: functions.php:605
+msgid "Mix"
+msgstr "Смешивание"
+
+#: inc/customizer/helpers.php:1475 inc/customizer/helpers.php:1510
+#: inc/customizer/helpers.php:1531
+msgid "No Sidebar"
+msgstr "Без области виджетов"
+
+#: inc/customizer/helpers.php:2179
+msgid "No follow"
+msgstr "Nofollow"
+
+#: inc/customizer/helpers.php:2180
+msgid "No opener"
+msgstr "Noopener"
+
+#: inc/customizer/helpers.php:2181
+msgid "No referrer"
+msgstr "Noreferrer"
+
+#: inc/customizer/helpers.php:2265
+msgid "Number of category"
+msgstr "Количество рубрик"
+
+#: inc/customizer/helpers.php:158
+msgid "Off canvas"
+msgstr "Вне холста"
+
+#: inc/customizer/helpers.php:2167
+msgid "Open in"
+msgstr "Открыт в"
+
+#: inc/customizer/helpers.php:790
+msgid "Padding ( px )"
+msgstr "Внутренний отступ (px)"
+
+#: inc/customizer/helpers.php:353
+msgid "Page Content Typo"
+msgstr "Типографика содержимого страницы"
+
+#: inc/customizer/helpers.php:972 inc/customizer/helpers.php:975
+#: inc/customizer/helpers.php:993 inc/customizer/helpers.php:1026
+msgid "Post Query"
+msgstr "Запрос записи"
+
+#: inc/customizer/helpers.php:413
+msgid "Post Title Typo"
+msgstr "Типографика названия записи"
+
+#: inc/customizer/helpers.php:1783
+msgid "Post title hover effects"
+msgstr "Эффекты заголовка записи при наведении"
+
+#: inc/customizer/helpers.php:2427 inc/customizer/helpers.php:2431
+#: inc/customizer/helpers.php:2436 inc/customizer/helpers.php:2441
+#: inc/customizer/helpers.php:2446
+msgid "Posts To Include"
+msgstr "Записи для включения"
+
+#: inc/customizer/helpers.php:2200
+msgid "Random post archives"
+msgstr "Архивы случайных записей"
+
+#: inc/customizer/helpers.php:425
+msgid "Read Time Typo"
+msgstr "Типографика времени чтения"
+
+#: inc/customizer/helpers.php:2176
+msgid "Rel"
+msgstr "Rel"
+
+#: inc/theme-starter.php:344
+msgid "Related Articles"
+msgstr "Связанные статьи"
+
+#: inc/customizer/helpers.php:2471
+msgid "Row Widgets"
+msgstr "Виджеты строк"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumb-trail/breadcrumbs.php:291
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/widgets/carousel.php:86 inc/widgets/posts-grid-two-column.php:96
+msgid "Select category"
+msgstr "Выбрать рубрику"
+
+#: inc/customizer/helpers.php:2102 inc/customizer/helpers.php:2123
+msgid "Select from dropdown."
+msgstr "Выбрать из выпадающего списка."
+
+#: inc/customizer/helpers.php:1873
+msgid "Set color presets"
+msgstr "Установить предустановки цвета"
+
+#: inc/customizer/helpers.php:1878
+msgid "Set gradient presets"
+msgstr "Установить предустановки градиента"
+
+#: inc/customizer/helpers.php:502
+msgid "Show Ticker News"
+msgstr "Показать бегущую строку новостей"
+
+#: inc/customizer/helpers.php:610
+msgid "Show author image"
+msgstr "Показать изображение автора"
+
+#: inc/customizer/helpers.php:537
+msgid "Show author info box"
+msgstr "Показать инфо блок автора"
+
+#: inc/customizer/helpers.php:480
+msgid "Show background animation on mobile"
+msgstr "Показать фоновую анимацию на мобильных"
+
+#: inc/customizer/helpers.php:511
+msgid "Show carousel"
+msgstr "Показать карусель"
+
+#: inc/customizer/helpers.php:471
+msgid "Show carousel banner excerpt on mobile"
+msgstr "Показать отрывок баннера карусели на мобильных"
+
+#: inc/customizer/helpers.php:597
+msgid "Show category count"
+msgstr "Показать количество рубрик"
+
+#: inc/customizer/helpers.php:529
+msgid "Show category info box"
+msgstr "Показать инфо блок рубрики"
+
+#: inc/customizer/helpers.php:477
+msgid "Show comment number on mobile"
+msgstr "Показывать номер комментария на мобильном"
+
+#: inc/customizer/helpers.php:468
+msgid "Show main banner excerpt on mobile"
+msgstr "Показать отрывок главного баннера на мобильных"
+
+#: inc/customizer/helpers.php:474
+msgid "Show readtime on mobile"
+msgstr "Показать время чтения на мобильних"
+
+#: inc/customizer/helpers.php:541
+msgid "Show related articles"
+msgstr "Показать связанные статьи"
+
+#: inc/customizer/helpers.php:483
+msgid "Show scroll to top on mobile"
+msgstr "Показать прокрутку вверх на мобильных"
+
+#: inc/customizer/helpers.php:603
+msgid "Show section title"
+msgstr "Показать название раздела"
+
+#: inc/customizer/helpers.php:533
+msgid "Show tag info box"
+msgstr "Показать инфо окно тега"
+
+#: inc/customizer/helpers.php:120
+msgid "Sidebar / Widget Styles"
+msgstr "Стили боковой панели / виджета"
+
+#: inc/customizer/helpers.php:2991
+msgid "Sidebar 4"
+msgstr "Боковая панель 4"
+
+#: inc/customizer/helpers.php:990 inc/customizer/helpers.php:1038
+msgid "Sidebar Typography"
+msgstr "Типографика боковой панели"
+
+#: inc/customizer/helpers.php:279
+msgid "Site Description Typography"
+msgstr "Типографика описания сайта"
+
+#: inc/customizer/helpers.php:2905 inc/customizer/helpers.php:3025
+msgid "Site Logo and Title"
+msgstr "Логотип и название сайта"
+
+#: inc/customizer/helpers.php:276
+msgid "Site Title Typography"
+msgstr "Типография названия сайта"
+
+#: inc/customizer/helpers.php:87 inc/customizer/helpers.php:90
+#: inc/customizer/helpers.php:2094 inc/customizer/helpers.php:2115
+#: inc/customizer/helpers.php:2915 inc/customizer/helpers.php:2961
+#: inc/customizer/helpers.php:3035
+msgid "Social Icons"
+msgstr "Значки соцсети"
+
+#: inc/customizer/helpers.php:1872
+msgid "Solid Presets"
+msgstr "Полные наборы предустановок"
+
+#: inc/customizer/helpers.php:292
+msgid "Sub Menu Typography"
+msgstr "Типографика подменю"
+
+#: inc/customizer/helpers.php:136
+msgid "Tag Colors"
+msgstr "Цвета тега"
+
+#: inc/customizer/helpers.php:335
+msgid "Tag Description Typo"
+msgstr "Типографика описания тега"
+
+#: inc/customizer/helpers.php:198
+msgid "Tag Page"
+msgstr "Страница тега"
+
+#: inc/customizer/helpers.php:332
+msgid "Tag Title"
+msgstr "Название метки"
+
+#: inc/customizer/helpers.php:362 inc/customizer/helpers.php:365
+msgid "Text Typo"
+msgstr "Типографика текста"
+
+#: inc/customizer/helpers.php:295
+msgid "Text Typography"
+msgstr "Типографика текста"
+
+#: inc/customizer/helpers.php:2331
+msgid "The effects of this field is only seen in widgets."
+msgstr "Эффекты этого поля видны только в виджетах."
+
+#: inc/widgets/author-info.php:14
+msgid "The information of author in detail."
+msgstr "Подробная информация об авторе."
+
+#: inc/customizer/helpers.php:129
+msgid "Theme Colors / Presets"
+msgstr "Цвета / наборы предустановок темы"
+
+#: inc/customizer/helpers.php:940
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/customizer/helpers.php:2857
+msgid "This is the control to use in future projects."
+msgstr "Этот элемент управления будет использоваться в будущих проектах."
+
+#: inc/customizer/helpers.php:522
+msgid "This will hide all the notices or any message shown by the theme like review notices, change log notices"
+msgstr "Это позволит скрыть все уведомления или любые сообщения, показываемые темой, например, уведомления о просмотре, уведомления о журнале изменений"
+
+#: inc/customizer/helpers.php:1966
+msgid "Time Color"
+msgstr "Цвет времени"
+
+#: inc/customizer/helpers.php:298 inc/customizer/helpers.php:304
+#: inc/customizer/helpers.php:307 inc/customizer/helpers.php:344
+#: inc/customizer/helpers.php:356
+msgid "Title Typo"
+msgstr "Типографика названия"
+
+#: inc/customizer/helpers.php:3070
+msgid "Toggle Button"
+msgstr "Кнопка Переключателя"
+
+#: inc/customizer/helpers.php:978
+msgid "Trailing Post Query"
+msgstr "Запрос на отслеживание записи"
+
+#: inc/customizer/custom-controls/repeater/repeater.php:183
+#: inc/customizer/custom-controls/repeater/repeater.php:298
+msgid "Type to search"
+msgstr "Ввод для поиска"
+
+#: inc/theme-starter.php:706
+msgid "Typography 1"
+msgstr "Типографика 1"
+
+#: inc/theme-starter.php:706
+msgid "Typography 2"
+msgstr "Типографика 2"
+
+#: inc/theme-starter.php:706
+msgid "Typography 3"
+msgstr "Типографика 3"
+
+#: inc/customizer/helpers.php:2108 inc/customizer/helpers.php:2138
+msgid "URL for icon"
+msgstr "URL значка"
+
+#: inc/customizer/helpers.php:2054
+msgid "Upload image for bottom footer"
+msgstr "Загрузить изображение для нижнего подвала"
+
+#: inc/admin/admin.php:396 inc/hooks/frontpage-sections-hook.php:431
+msgid "View all"
+msgstr "Смотреть все"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail/breadcrumbs.php:299
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:809
+#: inc/breadcrumb-trail/breadcrumbs.php:838
+#: inc/breadcrumb-trail/breadcrumbs.php:865
+#: inc/breadcrumb-trail/breadcrumbs.php:892
+#: inc/breadcrumb-trail/breadcrumbs.php:1231
+#: inc/breadcrumb-trail/breadcrumbs.php:1233
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer/helpers.php:225 inc/theme-starter.php:453
+msgid "You May Have Missed"
+msgstr "Возможно, вы пропустили"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "BlazeThemes"
+msgstr "BlazeThemes"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blazethemes.com/"
+msgstr "https://blazethemes.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://blazethemes.com/theme/blog-postx"
+msgstr "http://blazethemes.com/theme/blog-postx"

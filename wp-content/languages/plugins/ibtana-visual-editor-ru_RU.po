@@ -1,0 +1,864 @@
+# Translation of Plugins - Ibtana &#8211; WordPress Website Builder - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Ibtana &#8211; WordPress Website Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-04 10:46:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ibtana &#8211; WordPress Website Builder - Stable (latest release)\n"
+
+#. translators: %s is the title
+#: ive-custom-fields/fields/is-text.php:117
+#: ive-custom-fields/fields/is-text.php:136
+#: ive-custom-fields/fields/is-text.php:173
+msgid "%s: "
+msgstr "%s: "
+
+#. Translators: %s is the title of the template post
+#. Translators: %s is the name of the template type
+#: classes/ive-saved-templates.php:129 classes/ive-saved-templates.php:147
+#: classes/ive-saved-templates.php:193
+msgid "Select %s"
+msgstr "Выбрать %s"
+
+#. Translators: %d is the number of items found
+#: classes/ive-saved-templates.php:62 classes/ive-saved-templates.php:76
+#: classes/ive-saved-templates.php:257 classes/ive-saved-templates.php:271
+msgid "%d item(s)"
+msgstr "%d элемент"
+
+#. Translators: %d is the limit of templates that can be saved.
+#: classes/class-cpt.php:364
+msgid "Can't Save More Than %d Templates."
+msgstr "Невозможно сохранить более %d шаблонов."
+
+#: admin-menu.php:1602 whizzie/whizzie.php:129
+msgid "verifying"
+msgstr "проверка"
+
+#: whizzie/whizzie.php:449
+msgid "Success"
+msgstr "Успех"
+
+#: whizzie/whizzie.php:442
+msgid "No Slug Found"
+msgstr "Ярлык не найден"
+
+#: whizzie/whizzie.php:402
+msgid "No widgets.wie found."
+msgstr "Виджеты не найдены."
+
+#: whizzie/whizzie.php:364
+msgid "This theme works best with some additional plugins. Click the button to install. You can still install or deactivate plugins later from the dashboard."
+msgstr "Эта тема лучше всего работает с некоторыми дополнительными плагинами. Нажмите кнопку, чтобы установить. Вы по-прежнему можете установить или деактивировать плагины позже с панели управления."
+
+#: whizzie/whizzie.php:300
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: whizzie/whizzie.php:259
+msgid "Skip"
+msgstr "Пропустить"
+
+#: whizzie/whizzie.php:197
+msgid "More Info"
+msgstr "Больше информации"
+
+#: whizzie/config.php:58 whizzie/whizzie.php:315
+msgid "Customize Site"
+msgstr "Настройка сайта"
+
+#: whizzie/config.php:57 whizzie/whizzie.php:314
+msgid "Visit Site"
+msgstr "Перейти на сайт"
+
+#: whizzie/config.php:55 whizzie/whizzie.php:310
+msgid "All Done"
+msgstr "Всё выполнено"
+
+#: whizzie/config.php:50 whizzie/whizzie.php:305
+msgid "Click On The Image To Import Elementor Demo"
+msgstr "Нажмите на изображение, чтобы импортировать демо-версию Elementor"
+
+#: whizzie/config.php:49 whizzie/whizzie.php:304
+msgid "Click On The Image To Import Customizer Demo"
+msgstr "Нажмите на изображение, чтобы импортировать демо-версию настройки темы"
+
+#: whizzie/config.php:47
+msgid "Import Demo"
+msgstr "Импорт демонстрации"
+
+#: whizzie/config.php:42
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: whizzie/config.php:40
+msgid "Plugins"
+msgstr "Плагины"
+
+#: whizzie/config.php:35 whizzie/whizzie.php:295
+msgid "Start Now"
+msgstr "Начать сейчас"
+
+#: whizzie/config.php:33 whizzie/whizzie.php:291
+msgid "Welcome to "
+msgstr "Добро пожаловать в "
+
+#: whizzie/classes/class-whizzie-widget-importer.php:184
+msgid "No Title"
+msgstr "Без заголовка"
+
+#: whizzie/classes/class-whizzie-widget-importer.php:177
+msgid "Imported to Inactive"
+msgstr "Импортировано в неактивный"
+
+#: whizzie/classes/class-whizzie-widget-importer.php:174
+msgid "Imported"
+msgstr "Импортировано"
+
+#: whizzie/classes/class-whizzie-widget-importer.php:112
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+#: whizzie/classes/class-whizzie-widget-importer.php:93
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+#: whizzie/classes/class-whizzie-widget-importer.php:72
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "Область виджетов не существует в теме (используется неактивно)"
+
+#: whizzie/classes/class-whizzie-widget-importer.php:39
+msgid "Widgets file could not be read"
+msgstr "Не удалось прочитать файл виджетов."
+
+#. translators: %2$s - current page link.
+#: src/blocks/form/mail-template/index.php:319
+msgid "This e-mail was sent from a contact form on %1$s. (%2$s)"
+msgstr "Это электронное письмо было отправлено из контактной формы на %1$s. (%2$s)"
+
+#: src/blocks/form/fields/url/block.php:39
+msgid "URL"
+msgstr "URL"
+
+#: src/blocks/form/fields/textarea/block.php:39
+msgid "Textarea"
+msgstr "Текстовая область"
+
+#: src/blocks/form/fields/select/block.php:203
+msgid "--- Select ---"
+msgstr "-- Выбрать --"
+
+#: src/blocks/form/fields/hidden/block.php:39
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: src/blocks/form/field-attributes/index.php:29
+msgid "Field Label"
+msgstr "Этикетка поля"
+
+#. translators: %s - redirect link.
+#: src/blocks/form/block.php:352
+msgid "Your form is successfully submitted. Redirecting to %s..."
+msgstr "Ваша форма успешно отправлена. Перенаправление на %s..."
+
+#: src/blocks/form/block.php:316 src/blocks/form/block.php:320
+msgid "Something went wrong while trying to send the form."
+msgstr "Что-то пошло не так при попытке отправить форму."
+
+#: src/blocks/form/block.php:300
+msgid "Google reCaptcha form verification failed."
+msgstr "Проверка формы Google reCaptcha не удалась."
+
+#: src/blocks/form/block.php:131
+msgid "Thank you for contacting us! We will be in touch with you shortly."
+msgstr "Благодарим Вас за обращение к нам! Мы свяжемся с вами в ближайшее время."
+
+#: ive-custom-fields/fields/is-text.php:189
+msgid "Add another"
+msgstr "Добавить ещё"
+
+#: ive-custom-fields/custom-post-select.php:40
+msgid "Select Post Type:"
+msgstr "Выбрать тип записи:"
+
+#: ive-custom-fields/custom-fields.php:95
+msgid "Add field"
+msgstr "Добавить поле"
+
+#: ive-custom-fields/custom-fields.php:64
+#: ive-custom-fields/custom-fields.php:89
+#: ive-custom-fields/fields/is-text.php:164
+#: ive-custom-fields/fields/is-text.php:183
+msgid "Remove"
+msgstr "Удалить"
+
+#: ive-custom-fields/custom-fields.php:59
+#: ive-custom-fields/custom-fields.php:84
+msgid "Repeater"
+msgstr "Повторитель"
+
+#: ive-custom-fields/custom-fields.php:52
+#: ive-custom-fields/custom-fields.php:81
+msgid "Type:"
+msgstr "Тип:"
+
+#: ive-custom-fields/custom-fields.php:48
+#: ive-custom-fields/custom-fields.php:77
+msgid "Name:"
+msgstr "Имя:"
+
+#: ive-custom-fields/custom-fields.php:44
+#: ive-custom-fields/custom-fields.php:73
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ive-countdown.php:246
+msgid "Settings"
+msgstr "Настройки"
+
+#. Translators: %s is the average rating.
+#: dist/post/plugin-post.php:2697
+msgid "Rated %s out of 5"
+msgstr "Оценка %s из 5"
+
+#: dist/post/plugin-post.php:2630
+msgid "Sale!"
+msgstr "Распродажа!"
+
+#: dist/post/plugin-post.php:123
+msgid "Different Sized Featured Images"
+msgstr "Изображения записи разного размера"
+
+#: dist/post/pagination.php:44
+msgid "Previous"
+msgstr "Назад"
+
+#: classes/ive-saved-templates.php:178
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: classes/ive-saved-templates.php:168
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/ive-saved-templates.php:158
+msgid "Edit"
+msgstr "Изменить"
+
+#: classes/ive-saved-templates.php:110 classes/ive-saved-templates.php:233
+msgid "Ibtana Template Type"
+msgstr "Тип шаблона Ibtana"
+
+#: classes/ive-saved-templates.php:105 classes/ive-saved-templates.php:229
+msgid "Title"
+msgstr "Заголовок"
+
+#: classes/ive-saved-templates.php:96 classes/ive-saved-templates.php:221
+msgid "Select All"
+msgstr "Выделить все"
+
+#: classes/ive-saved-templates.php:86
+msgid "Posts list"
+msgstr "Список записей"
+
+#: classes/ive-saved-templates.php:55 classes/ive-saved-templates.php:250
+msgid "Apply"
+msgstr "Применить"
+
+#: classes/ive-saved-templates.php:53 classes/ive-saved-templates.php:248
+msgid "Delete permanently"
+msgstr "Удалить навсегда"
+
+#: classes/ive-saved-templates.php:52 classes/ive-saved-templates.php:247
+msgid "Bulk actions"
+msgstr "Действия"
+
+#: classes/ive-saved-templates.php:49 classes/ive-saved-templates.php:244
+msgid "Select bulk action"
+msgstr "Выберите массовое действие"
+
+#: classes/ive-saved-templates.php:34
+msgid "Filter posts list"
+msgstr "Фильтровать список записей"
+
+#: classes/ive-notice.php:142
+msgid "Activate Sirat Theme"
+msgstr "Активировать тему Sirat"
+
+#: classes/ive-notice.php:136
+msgid "theme."
+msgstr "тема."
+
+#: classes/ive-notice.php:135
+msgid "Sirat"
+msgstr "Sirat"
+
+#: classes/ive-notice.php:134
+msgid "better works with"
+msgstr "лучше работает с"
+
+#: classes/class-ive-loader.php:101
+msgid "Install Ibtana – Ecommerce Product Addons"
+msgstr "Установить Ibtana – Ecommerce Product Addons"
+
+#: classes/class-ive-loader.php:90
+msgid "Activate Ibtana – Ecommerce Product Addons"
+msgstr "Активировать Ibtana - Ecommerce Product Addons"
+
+#. Translators: %1$s and %2$s are HTML tags around the plugin name.
+#: classes/class-ive-loader.php:73
+msgid "In order to use product page as a gutenberg editor install and activate %1$sIbtana Ecommerce Product Addons%1$s"
+msgstr "Чтобы использовать страницу продукта в качестве редактора Gutenberg, установите и активируйте %1$sIbtana Ecommerce Addons%1$s."
+
+#: ive-custom-fields/custom-fields.php:58
+#: ive-custom-fields/custom-fields.php:83
+#: src/blocks/form/fields/text/block.php:39
+msgid "Text"
+msgstr "Текст"
+
+#: src/blocks/form/fields/select/block.php:39
+msgid "Select"
+msgstr "Выбрать"
+
+#: src/blocks/form/fields/radio/block.php:39
+msgid "Radio"
+msgstr "Переключатель"
+
+#: src/blocks/form/fields/phone/block.php:39
+msgid "Phone"
+msgstr "Телефон"
+
+#: src/blocks/form/fields/number/block.php:39
+msgid "Number"
+msgstr "Число"
+
+#: src/blocks/form/fields/name/block.php:39
+msgid "Name"
+msgstr "Имя"
+
+#: src/blocks/form/fields/email/block.php:39
+msgid "Email"
+msgstr "Email"
+
+#: src/blocks/form/fields/date/block.php:39
+msgid "Date"
+msgstr "Дата"
+
+#: ive-custom-fields/custom-fields.php:60
+#: ive-custom-fields/custom-fields.php:85
+#: src/blocks/form/fields/checkbox/block.php:39
+msgid "Checkbox"
+msgstr "Флажок"
+
+#: classes/class-ive-admin.php:132
+msgid "Theme Successfully Activated"
+msgstr "Тема успешно активирована"
+
+#: classes/class-ive-admin.php:113
+msgid "No Theme specified"
+msgstr "Тема не указана"
+
+#: classes/class-cpt.php:473
+msgid "Successfully Deleted!"
+msgstr "Успешно удалено!"
+
+#: classes/class-cpt.php:398
+msgid "Template Found!"
+msgstr "Шаблон найден!"
+
+#. Translators: %s is the title of the template.
+#: classes/class-cpt.php:350
+msgid "Successfully saved template '%s'."
+msgstr "Успешно сохранен шаблон '%s'."
+
+#: classes/class-cpt.php:147 classes/class-cpt.php:390
+#: classes/class-cpt.php:460
+msgid "Template Not Found!"
+msgstr "Шаблон не найден!"
+
+#: classes/class-cpt.php:98
+msgid "Ibtana Template Types"
+msgstr "Типы шаблона Ibtana"
+
+#: classes/class-cpt.php:97
+msgid "New Ibtana Template Type Name"
+msgstr "Название нового типа шаблона Ibtana"
+
+#: classes/class-cpt.php:96
+msgid "Add New Ibtana Template Type"
+msgstr "Добавьте новый тип шаблона Ibtana"
+
+#: classes/class-cpt.php:95
+msgid "Update Ibtana Template Type"
+msgstr "Обновить тип шаблона Ibtana:"
+
+#: classes/class-cpt.php:94
+msgid "Edit Ibtana Template Type"
+msgstr "Изменить тип шаблона Ibtana"
+
+#: classes/class-cpt.php:93
+msgid "Parent Ibtana Template Type:"
+msgstr "Родительский тип шаблона Ibtana:"
+
+#: classes/class-cpt.php:92
+msgid "Parent Ibtana Template Type"
+msgstr "Родительский тип шаблона Ibtana"
+
+#: classes/class-cpt.php:91
+msgid "All Ibtana Template Types"
+msgstr "Все типы шаблонов Ibtana"
+
+#: classes/class-cpt.php:90
+msgid "Search Ibtana Template Types"
+msgstr "Поиск типов шаблонов Ibtana"
+
+#: classes/class-cpt.php:89
+msgctxt "taxonomy singular name"
+msgid "Ibtana Template Type"
+msgstr "Тип шаблона Ibtana"
+
+#: classes/class-cpt.php:88
+msgctxt "taxonomy general name"
+msgid "Ibtana Template Type"
+msgstr "Тип шаблона Ibtana"
+
+#: classes/class-cpt.php:72
+msgid "No ibtana templates found in Trash."
+msgstr "Шаблоны ibtana не найдены в корзине."
+
+#: classes/class-cpt.php:71 classes/ive-saved-templates.php:207
+msgid "No ibtana templates found."
+msgstr "Шаблоны ibtana не найдены."
+
+#: classes/class-cpt.php:70
+msgid "Parent Ibtana templates:"
+msgstr "Родительские шаблоны Ibtana:"
+
+#: classes/class-cpt.php:69
+msgid "Search Ibtana templates"
+msgstr "Поиск шаблонов Ibtana"
+
+#: classes/class-cpt.php:68
+msgid "Saved Templates"
+msgstr "Сохранённые шаблоны"
+
+#: classes/class-cpt.php:67
+msgid "View Ibtana template"
+msgstr "Посмотреть шаблон Ibtana"
+
+#: classes/class-cpt.php:66
+msgid "Edit Ibtana template"
+msgstr "Изменить шаблон Ibtana"
+
+#: classes/class-cpt.php:65
+msgid "New Ibtana template"
+msgstr "Новый шаблон Ibtana"
+
+#: classes/class-cpt.php:64
+msgid "Add New Ibtana template"
+msgstr "Добавить новый шаблон Ibtana"
+
+#: classes/class-cpt.php:63
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: classes/class-cpt.php:60 classes/class-cpt.php:62
+msgid "Ibtana template"
+msgstr "Шаблон Ibtana"
+
+#: classes/class-cpt.php:59 classes/class-cpt.php:61
+#: classes/ive-saved-templates.php:28
+msgid "Ibtana templates"
+msgstr "Шаблоны Ibtana"
+
+#: admin-menu.php:2411
+msgid "Addons"
+msgstr "Дополнения"
+
+#: admin-menu.php:2391
+msgid "Envato"
+msgstr "Envato"
+
+#: admin-menu.php:2370 admin-menu.php:2382
+msgid "Enter your add-ons license keys here to receive updates for purchased add-ons."
+msgstr "Введите здесь лицензионные ключи дополнений, чтобы получать обновления для приобретенных дополнений."
+
+#: admin-menu.php:2331
+msgid "Enter your add-ons license keys here to receive updates for purchased add-ons. If your license key has expired, please renew your license."
+msgstr "Введите здесь лицензионные ключи дополнений, чтобы получать обновления для приобретенных дополнений. Если срок действия вашего лицензионного ключа истек, продлите лицензию."
+
+#: admin-menu.php:2312 admin-menu.php:2325
+msgid "."
+msgstr "."
+
+#: admin-menu.php:2310 admin-menu.php:2323
+msgid "No add-ons installed. See available add-ons - "
+msgstr "Дополнения не установлены. Посмотреть доступные дополнения - "
+
+#: admin-menu.php:2286
+msgid "License"
+msgstr "Лицензия"
+
+#: admin-menu.php:2265
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin-menu.php:2249
+msgid "Custom JS"
+msgstr "Пользовательский JS"
+
+#: admin-menu.php:2239 admin-menu.php:2255
+msgid "Upgrade Pro"
+msgstr "Обновить до Pro"
+
+#: admin-menu.php:2237 admin-menu.php:2253
+msgid "You need to activate your license to use this feature. To Enable This Feature"
+msgstr "Чтобы использовать эту функцию, вам необходимо активировать лицензию. Включение этой функции"
+
+#: admin-menu.php:2233
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: admin-menu.php:2225
+msgid "How to create a Google API Key"
+msgstr "Как создать ключ API Google"
+
+#: admin-menu.php:2220
+msgid "A Google API key is required to use the Map block without any warning."
+msgstr "Для использования блока карт без предупреждения требуется ключ Google API."
+
+#: admin-menu.php:2217
+msgid "Google API Key"
+msgstr "API-ключ Google"
+
+#: admin-menu.php:2047
+msgid "WooCommerce Templates"
+msgstr "Шаблоны WooCommerce"
+
+#: admin-menu.php:2003 admin-menu.php:2178 dist/post/pagination.php:69
+msgid "Next"
+msgstr "Далее"
+
+#: admin-menu.php:2001 admin-menu.php:2176
+msgid "3"
+msgstr "3"
+
+#: admin-menu.php:2000 admin-menu.php:2175
+msgid "2"
+msgstr "2"
+
+#: admin-menu.php:1999 admin-menu.php:2174
+msgid "1"
+msgstr "1"
+
+#: admin-menu.php:1997 admin-menu.php:2172
+msgid "Back"
+msgstr "Назад"
+
+#: admin-menu.php:1987 admin-menu.php:2162
+msgid "Required plugins"
+msgstr "Необходимые плагины"
+
+#: admin-menu.php:1980 admin-menu.php:2155
+msgid "Please be patient and don't refresh this page, the import process may take a while, this also depends on your server."
+msgstr "Наберитесь терпения и не обновляйте эту страницу, процесс импорта может занять некоторое время, это также зависит от вашего сервера."
+
+#: admin-menu.php:1977 admin-menu.php:2152
+msgid "Installing..."
+msgstr "Установка..."
+
+#: admin-menu.php:1973 admin-menu.php:2148
+msgid "This will import the template."
+msgstr "Это позволит импортировать шаблон."
+
+#: admin-menu.php:1972 admin-menu.php:2147
+msgid "Import Content"
+msgstr "Импорт содержимого"
+
+#: admin-menu.php:1962 admin-menu.php:2137
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: admin-menu.php:1954 admin-menu.php:2129
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin-menu.php:1947 admin-menu.php:2122
+msgid "The following plugins are required for this template in order to work properly. Ignore if already installed."
+msgstr "Для правильной работы этого шаблона необходимы следующие плагины. Игнорируйте, если оно уже установлено."
+
+#: admin-menu.php:1944 admin-menu.php:2119
+msgid "Install & Activate Plugins"
+msgstr "Установка и активация плагинов"
+
+#: admin-menu.php:1932 admin-menu.php:2107
+msgid "We strongly recommend to install the base theme."
+msgstr "Мы настоятельно рекомендуем установить базовую тему."
+
+#: admin-menu.php:1931 admin-menu.php:1934 admin-menu.php:2106
+#: admin-menu.php:2109
+msgid "Install Base Theme"
+msgstr "Установить базовую тему"
+
+#: admin-menu.php:1871
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: admin-menu.php:1860
+msgid "Get Started"
+msgstr "Начать"
+
+#: admin-menu.php:1855
+msgid "Look's like you've installed our "
+msgstr "Похоже, вы установили нашу "
+
+#: admin-menu.php:1843 admin-menu.php:2034
+msgid "Lightning Fast &amp; Fully Customizable WordPress theme!"
+msgstr "Молниеносно быстрая и полностью настраиваемая тема WordPress!"
+
+#: admin-menu.php:1416
+msgid "Themes"
+msgstr "Темы"
+
+#: admin-menu.php:1408
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: admin-menu.php:1403
+msgid "Ibtana Visual Editor"
+msgstr "Визуальный редактор Ibtana"
+
+#: admin-menu.php:1371
+msgid "Coming Soon"
+msgstr "Скоро будет"
+
+#: admin-menu.php:1330
+msgid "Woocommerce Blocks"
+msgstr "Блоки WooCommerce"
+
+#: admin-menu.php:1320 admin-menu.php:1351
+msgid "View Demo"
+msgstr "Смотреть демонстрацию"
+
+#: admin-menu.php:1301
+msgid "Ibtana Blocks"
+msgstr "Блоки Ibtana"
+
+#: admin-menu.php:1291
+msgid "Disable File Generation"
+msgstr "Отключить создание файла"
+
+#: admin-menu.php:1287
+msgid "Inadequate File Permission"
+msgstr "Недостаточное разрешение файла"
+
+#: admin-menu.php:1283
+msgid "Enable File Generation"
+msgstr "Включить создание файлов"
+
+#: admin-menu.php:1277
+msgid "Enabling this option will generate CSS files for Ibtana WordPress Website Builder styling instead of loading the CSS inline on page."
+msgstr "Включение этой опции приведет к созданию файлов CSS для стиля Ibtana WordPress Website Builder вместо загрузки встроенного CSS на странице."
+
+#: admin-menu.php:1275
+msgid "CSS File Generation"
+msgstr "Создание файла CSS"
+
+#: admin-menu.php:1270
+msgid "See Demos »"
+msgstr "Смотрите демонстрации »"
+
+#: admin-menu.php:1267
+msgid "Wish to see some real design implementations with these blocks?"
+msgstr "Хотите увидеть реально реализованные проекты с этими блоками?"
+
+#: admin-menu.php:1264
+msgid "Ibtana WordPress Website Builder comes with 15+ blocks through which you can easily create your templates using HTML and WordPress knowledge. If you want you can also try our themes package with pre-build landing and internal pages. We have different category light weight themes targeted with category wise landing and internal pages, installed through setup wizard."
+msgstr "Ibtana WordPress Website Builder включает более 15 блоков, с помощью которых вы можете легко создавать свои шаблоны, используя знания HTML и WordPress. Если вы хотите, вы также можете попробовать наш пакет тем с готовыми целевыми и внутренними страницами. У нас есть легкие темы различных категорий, ориентированные на целевые и внутренние страницы по категориям, которые устанавливаются с помощью мастера установки."
+
+#: admin-menu.php:1261
+msgid "How to use Ibtana WordPress Website Builder"
+msgstr "Как использовать конструктор сайтов WordPress Ibtana"
+
+#: admin-menu.php:1256
+msgid "Rate Us"
+msgstr "Оцените нас"
+
+#: admin-menu.php:1253
+msgid "Know More »"
+msgstr "Узнать больше »"
+
+#: admin-menu.php:1250
+msgid "Get 3+ of  professionally designed pre-built FREE starter templates built using Gutenberg, Ibtana WordPress Website Builder and the VW Themes. These can be imported in just a few clicks. Tweak them easily and build awesome websites in minutes!"
+msgstr "Получите более 3 профессионально разработанных готовых БЕСПЛАТНЫХ стартовых шаблонов, созданных с использованием Gutenberg, Ibtana WordPress Website Builder и VW Themes. Их можно импортировать всего за несколько кликов. Легко настройте их и создавайте потрясающие веб-сайты за считанные минуты!"
+
+#: admin-menu.php:1250
+msgid "Ready-to-use Full Demo Websites - "
+msgstr "Готовые к использованию полные демо-сайты - "
+
+#: admin-menu.php:1247
+msgid "Thank you for choosing Ibtana WordPress Website Builder - the most advanced kit of gutenberg blocks to build a stunning landing page and internal page attractive than ever before!"
+msgstr "Благодарим вас за выбор Ibtana WordPress Website Builder — самого продвинутого набора блоков Gutenberg для создания потрясающей целевой страницы и внутренней страницы, привлекательной, как никогда прежде!"
+
+#: admin-menu.php:1245
+msgid "Welcome to the Ibtana WordPress Website Builder"
+msgstr "Добро пожаловать в конструктор сайтов WordPress Ibtana"
+
+#: admin-menu.php:1232
+msgid "WordPress Theme bundle is our best offer wherein we offer all our premium themes in a single package at a very good price. We at VWThemes, strongly believe in serving our customers."
+msgstr "Пакет тем WordPress — наше лучшее предложение, в котором мы предлагаем все наши темы премиум-класса в одном пакете по очень хорошей цене. Мы в VWThemes твердо верим в обслуживание наших клиентов."
+
+#: admin-menu.php:1228
+msgid "WP Theme Bundle"
+msgstr "Пакет тем WP"
+
+#: admin-menu.php:1202
+msgid "View Demos"
+msgstr "Смотреть демонстрации"
+
+#: admin-menu.php:1200
+msgid "Take Gutenberg to The Next Level! -"
+msgstr "Поднимите редактор \"Gutenberg\" на следующий уровень! -"
+
+#: admin-menu.php:1197 admin-menu.php:1839 admin-menu.php:2030
+msgid "v"
+msgstr "v"
+
+#: admin-menu.php:674
+msgid "Free Import"
+msgstr "Бесплатный импорт"
+
+#: admin-menu.php:617 admin-menu.php:1180
+msgid "Load More..."
+msgstr "Загрузить больше..."
+
+#: admin-menu.php:612 admin-menu.php:647
+msgid "No Result Found"
+msgstr "Результат не найден"
+
+#: admin-menu.php:598 admin-menu.php:643 admin-menu.php:1158
+msgid "Search Template Here"
+msgstr "Шаблон поиска здесь"
+
+#: admin-menu.php:543
+msgid "Click on the import button to import template demo"
+msgstr "Нажмите кнопку импорта, чтобы импортировать демо-версию шаблона"
+
+#: admin-menu.php:536
+msgid "Welcome to Ibtana Visual Editor"
+msgstr "Добро пожаловать в визуальный редактор Ibtana"
+
+#: admin-menu.php:351
+msgid "Upgrade To Pro!"
+msgstr "Обновить до Pro!"
+
+#: admin-menu.php:350
+msgid "Ibtana - Ecommerce Product Addons."
+msgstr "Ibtana - Ecommerce Product Addons."
+
+#: admin-menu.php:349
+msgid "Get pre-built premium product page templates using"
+msgstr "Получите готовые шаблоны страниц продуктов премиум-класса, используя"
+
+#: admin-menu.php:247
+msgid "WooCommerce Product Add-Ons"
+msgstr "WooCommerce Product Add-Ons"
+
+#: admin-menu.php:217
+msgid "with your version of WordPress"
+msgstr "с вашей версией WordPress"
+
+#: admin-menu.php:217
+msgid "Compatible"
+msgstr "Совместимый"
+
+#: admin-menu.php:210
+msgid "%s ago"
+msgstr "%s назад"
+
+#: admin-menu.php:210
+msgid "Last Updated:"
+msgstr "Обновление:"
+
+#: admin-menu.php:198
+msgid "Get it Free!"
+msgstr "Возьмите это бесплатно!"
+
+#: admin-menu.php:190
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: admin-menu.php:188
+msgid " or "
+msgstr " или "
+
+#: admin-menu.php:184
+msgid "Buy Now for $"
+msgstr "Купить сейчас за $"
+
+#: admin-menu.php:175
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#: admin-menu.php:174
+msgid "By"
+msgstr "От"
+
+#: admin-menu.php:164
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin-menu.php:152 admin-menu.php:157 admin-menu.php:679 admin-menu.php:1239
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: admin-menu.php:144
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin-menu.php:134
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: admin-menu.php:96 admin-menu.php:614 admin-menu.php:639
+msgid "Coming Soon..."
+msgstr "Скоро появится..."
+
+#: activation/activation.php:36 classes/ive-notice.php:94
+#: classes/ive-notice.php:105
+msgid "Something Went Wrong!"
+msgstr "Что-то пошло не так!"
+
+#: activation/activation.php:33
+msgid "Plugin Installed Successfully!"
+msgstr "Плагин успешно установлен!"
+
+#. Author URI of the plugin
+#: plugin.php
+msgid "https://www.vowelweb.com/"
+msgstr "https://www.vowelweb.com/"
+
+#. Author of the plugin
+#: plugin.php
+msgid "VowelWeb"
+msgstr "Vowel Web"
+
+#. Description of the plugin
+#: plugin.php
+msgid "Build your dream WordPress website with Ibtana, a powerful website builder with customizable templates and drag-and-drop elements for customization."
+msgstr "Создайте сайт своей мечты на WordPress с помощью Ibtana - мощного конструктора сайтов с настраиваемыми шаблонами и элементами, которые можно перетаскивать и настраивать."
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://www.vwthemes.com/products/wordpress-website-builder/"
+msgstr "https://www.vwthemes.com/products/wordpress-website-builder/"
+
+#. Plugin Name of the plugin
+#: plugin.php classes/ive-notice.php:133
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress Website Builder"

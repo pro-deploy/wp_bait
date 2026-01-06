@@ -1,0 +1,1631 @@
+# Translation of Themes - Glam Fashion Blog in Russian
+# This file is distributed under the same license as the Themes - Glam Fashion Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-30 19:09:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Glam Fashion Blog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Glam Fashion Blog is a multipurpose, modern, and elegant blogging platform designed for fashion enthusiasts, stylists, designers, modern fashion lovers, fashion stores, fashion boutiques, clothing stores, apparel shops, style stores, trendy clothing brands, designer clothing labels, street fashion creators, high fashion influencers, lifestyle bloggers, beauty influencers, makeup bloggers, skincare bloggers, fashion journalists, creative agencies, and digital creators alike. Its minimal yet sophisticated design ensures a clean, retina-ready, SEO-optimized, and user-friendly experience, making it perfect for showcasing fashion trends, lifestyle tips, beauty tutorials, lookbooks, outfit inspirations, style guides, and personal style insights. The theme is fully responsive, mobile-friendly, and optimized for faster page load times, ensuring your audience enjoys a seamless experience across all devices. Developers will appreciate its secure and clean code, optimized structure, and Bootstrap-based framework, which allows easy integration and customization with plugins like Contact Form 7 for form creation, Yoast SEO for improved search visibility, and WooCommerce for setting up an online boutique or selling fashion accessories. With powerful customization options and shortcodes, you can create a unique blog that reflects your brand identity. The theme includes a testimonial section, team section, and banner areas to highlight your services, style showcases, seasonal collections, or editorial features. Strategically placed Call to Action (CTA) buttons help boost engagement and conversions. Glam Fashion Blog is interactive, visually stunning, and animated, making every visitor experience appealing and immersive. It supports social media integration, allowing you to connect with your audience and share your content across various platforms effortlessly. The theme is translation-ready, agency-friendly, and suitable for personal bloggers, fashion magazines, lifestyle creators, stylists, or professional fashion agencies looking to showcase portfolios, campaigns, or client work. With its luxurious, beautiful, and contemporary design, Glam Fashion Blog offers endless possibilities for personalization, helping you build a memorable and impactful online presence while delivering a clean, elegant, versatile, optimized, secure, and conversion-friendly solution."
+msgstr "Glam Fashion Blog — это многофункциональная, современная и элегантная платформа для ведения блогов, разработанная для любителей моды, стилистов, дизайнеров, ценителей современной моды, магазинов модной одежды, бутиков, магазинов одежды, магазинов стиля, модных брендов одежды, дизайнерских лейблов, создателей уличной моды, инфлюенсеров высокой моды, лайфстайл-блогеров, бьюти-инфлюенсеров, блогеров по макияжу, блогеров по уходу за кожей, модных журналистов, креативных агентств и цифровых создателей контента. Минималистичный, но изысканный дизайн обеспечивает чистоту, готовность к отображению на экранах Retina, SEO-оптимизацию и удобство использования, что делает его идеальным для демонстрации модных тенденций, советов по образу жизни, уроков красоты, лукбуков, вдохновения для образов, руководств по стилю и личных идей о стиле. Тема полностью адаптивна, удобна для мобильных устройств и оптимизирована для быстрой загрузки страниц, обеспечивая вашей аудитории бесперебойную работу на всех устройствах. Разработчики оценят его безопасный и чистый код, оптимизированную структуру и фреймворк на основе Bootstrap, который обеспечивает легкую интеграцию и настройку с такими плагинами, как Contact Form 7 для создания форм, Yoast SEO для улучшения видимости в поисковых системах и WooCommerce для создания онлайн-бутика или продажи модных аксессуаров. Благодаря мощным возможностям настройки и шорткодам вы можете создать уникальный блог, отражающий идентичность вашего бренда. Тема включает раздел отзывов, раздел команды и баннеры для выделения ваших услуг, демонстраций стиля, сезонных коллекций или редакционных статей. Стратегически расположенные кнопки призыва к действию (CTA) помогают повысить вовлеченность и конверсию. Glam Fashion Blog интерактивен, визуально потрясающий и анимированный, что делает каждый визит посетителя привлекательным и захватывающим. Он поддерживает интеграцию с социальными сетями, позволяя вам легко взаимодействовать с вашей аудиторией и делиться контентом на различных платформах. Тема готова к переводу, удобна для агентств и подходит для личных блогеров, модных журналов, лайфстайл-блогеров, стилистов или профессиональных модных агентств, желающих продемонстрировать портфолио, кампании или работы клиентов. Благодаря своему роскошному, красивому и современному дизайну, Glam Fashion Blog предлагает безграничные возможности для персонализации, помогая вам создать запоминающееся и эффективное онлайн-присутствие, предоставляя при этом чистое, элегантное, универсальное, оптимизированное, безопасное и благоприятное для конверсии решение."
+
+#. Theme Name of the theme
+#: style.css core/block-patterns.php:13 notice-getstart/alpha-getstart.php:248
+#: patterns/footer-default.php:14
+#, gp-priority: high
+msgid "Glam Fashion Blog"
+msgstr "Glam Fashion Blog"
+
+#: styles/Lavender Pastel.json
+msgctxt "Style variation name"
+msgid "Lavender Pastel"
+msgstr "Лавандовая пастель"
+
+#: styles/Deep Violet.json
+msgctxt "Style variation name"
+msgid "Deep Violet"
+msgstr "Глубокий фиолетовый"
+
+#: core/section-pro/customizer.php:76
+msgid "Get 25+ Themes @$59"
+msgstr "Получите 25+ тем @$59"
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr "Наименование страницы"
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr "Заголовок архива с фоном"
+
+#: styles/Yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr "Желтый"
+
+#: styles/Blue Modern.json
+msgctxt "Style variation name"
+msgid "Blue Modern"
+msgstr "Blue Modern"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar Template"
+msgstr "Шаблон правой боковой панели страницы"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages Left Sidebar Template"
+msgstr "Шаблон левой боковой панели страницы"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Full Width) Template"
+msgstr "Шаблон страницы (во всю ширину)"
+
+#: patterns/footer-default.php:66
+msgid "Powered By WordPress Theme"
+msgstr "Тема на платформе WordPress"
+
+#: patterns/footer-default.php:66
+msgid "Glam Fashion Blog WordPress Theme "
+msgstr "Тема Glam Fashion Blog WordPress "
+
+#: notice-getstart/page-theme-info.php:255
+msgid "Get All Block Themes $59"
+msgstr "Получите все темы блоков за $59"
+
+#: notice-getstart/page-theme-info.php:251
+msgid "Whether you need a website for a blog, business, portfolio, or online store, this WP Theme Bundle provides everything you need for a visually appealing and fully functional site."
+msgstr "Нужен ли Вам сайт для блога, бизнеса, портфолио или интернет-магазина, этот комплект тем WP предоставляет все необходимое для создания визуально привлекательного и полнофункционального сайта."
+
+#: notice-getstart/page-theme-info.php:235
+msgid "Buy Now $40"
+msgstr "Купить сейчас $40"
+
+#: notice-getstart/page-theme-info.php:231
+msgid "Our Premium WordPress Themes are crafted to deliver powerful design, seamless performance, and full customization options—perfect for building stunning, professional websites with ease."
+msgstr "Наши премиум-темы WordPress отличаются мощным дизайном, безупречной производительностью и широкими возможностями настройки - они идеально подходят для создания потрясающих профессиональных веб-сайтов с легкостью."
+
+#: notice-getstart/page-theme-info.php:226
+msgid "Buy Premium Theme"
+msgstr "Приобрести премиум тему"
+
+#: notice-getstart/page-theme-info.php:189
+msgid "Frequently Asked Questions"
+msgstr "Распространенные вопросы"
+
+#: notice-getstart/page-theme-info.php:172
+msgid "All Templates"
+msgstr "Все шаблоны"
+
+#: notice-getstart/page-theme-info.php:169
+msgid "Edit Archive Page"
+msgstr "Редактировать страницу архива"
+
+#: notice-getstart/page-theme-info.php:166
+msgid "Edit Frontpage"
+msgstr "Редактировать первую страницу"
+
+#: notice-getstart/page-theme-info.php:163
+msgid "All Template Parts"
+msgstr "Все части шаблона"
+
+#: notice-getstart/page-theme-info.php:159
+msgid "Edit Blog Home"
+msgstr "Изменить главную блога"
+
+#: notice-getstart/page-theme-info.php:154
+msgid "Edit Sidebar"
+msgstr "Изменить боковую панель"
+
+#: notice-getstart/page-theme-info.php:151
+msgid "Edit Footer"
+msgstr "Изменить подвал"
+
+#: notice-getstart/page-theme-info.php:148
+msgid "Edit Header"
+msgstr "Изменить заголовок"
+
+#: notice-getstart/page-theme-info.php:129
+msgid "Quickly personalize fonts, colors, and layouts using simple customization panel."
+msgstr "Быстро персонализируйте шрифты, цвета и макеты с помощью простой панели настройки."
+
+#: notice-getstart/page-theme-info.php:124
+msgid "Easy Customization"
+msgstr "Простая настройка темы"
+
+#: notice-getstart/page-theme-info.php:113
+msgid "Runs smoothly across all major browsers for consistent site experience."
+msgstr "Работает плавно во всех основных браузерах, обеспечивая стабильное восприятие сайта."
+
+#: notice-getstart/page-theme-info.php:107
+msgid ""
+"Cross Browser Compatible\n"
+"\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Кросс-браузерная совместимость\n"
+"\t\t\t\t\t\t\t\t\t"
+
+#: notice-getstart/page-theme-info.php:96
+msgid "Our themes has one-click demo import making it easier to launch website."
+msgstr "Наши темы оснащены функцией импорта демо-версий в один клик, что облегчает запуск сайта."
+
+#: notice-getstart/page-theme-info.php:91
+msgid "Demo Import"
+msgstr "Импорт демо"
+
+#: notice-getstart/page-theme-info.php:80
+msgid "Your website adapts to all screen sizes for seamless viewing experience."
+msgstr "Сайт адаптируется ко всем размерам экрана, обеспечивая плавный просмотр."
+
+#: notice-getstart/page-theme-info.php:75
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: notice-getstart/page-theme-info.php:57
+msgid "Premium Theme"
+msgstr "Премиум-тема"
+
+#: notice-getstart/page-theme-info.php:38
+msgid "Documentation"
+msgstr "Документация"
+
+#: notice-getstart/page-theme-info.php:20
+msgid "Glam Fashion Blog is designed to give your website a bold, elegant, and professional look—ready to launch in just a few clicks."
+msgstr "Glam Fashion Blog создан для того, чтобы придать Вашему сайту смелый, элегантный и профессиональный вид - он готов к запуску всего за несколько кликов."
+
+#: notice-getstart/page-theme-info.php:16
+msgid "Welcome to Glam Fashion Blog"
+msgstr "Добро пожаловать в Glam Fashion Blog"
+
+#: notice-getstart/class-info.php:80
+msgid "Glam Fashion Blog Info"
+msgstr "Инфо Glam Fashion Blog"
+
+#: notice-getstart/alpha-getstart.php:272
+#: notice-getstart/page-theme-info.php:35
+msgid "Live Demo"
+msgstr "Онлайн-демо"
+
+#: notice-getstart/alpha-getstart.php:269
+#: notice-getstart/page-theme-info.php:32
+#: notice-getstart/page-theme-info.php:246
+msgid "Get All Themes"
+msgstr "Получить все темы"
+
+#: notice-getstart/alpha-getstart.php:266
+#: notice-getstart/page-theme-info.php:29
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: notice-getstart/alpha-getstart.php:262
+msgid "Theme Info Page"
+msgstr "Страница с информацией о теме"
+
+#: notice-getstart/alpha-getstart.php:253
+msgid "Welcome, and thank you for choosing Glam Fashion Blog! We’re thrilled to have you on board. Explore the features and customization options to make your website stylish, professional, and uniquely yours."
+msgstr "Добро пожаловать, и спасибо, что выбрали Glam Fashion Blog! Мы очень рады видеть Вас у нас в гостях. Изучите функции и возможности настройки, чтобы сделать Ваш сайт стильным, профессиональным и уникальным."
+
+#: notice-getstart/alpha-getstart.php:239
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: notice-getstart/alpha-getstart.php:202
+msgid "Yes, the theme is fully responsive and optimized for mobile, tablet, and desktop devices."
+msgstr "Да, тема полностью адаптивна и оптимизирована для мобильных, планшетов и настольных устройств."
+
+#: notice-getstart/alpha-getstart.php:201
+msgid "Is this theme mobile responsive?"
+msgstr "Является ли эта тема адаптивной для мобильных устройств?"
+
+#: notice-getstart/alpha-getstart.php:198
+msgid "You can customize colors and fonts by going to Appearance > Editor > Styles. Use the typography and color settings to match your brand style."
+msgstr "Вы можете настроить цвета и шрифты, перейдя в меню Внешний вид > Редактор > Стили. Используйте настройки шрифтов и цветов, чтобы они соответствовали стилю Вашего бренда."
+
+#: notice-getstart/alpha-getstart.php:197
+msgid "How can I adjust the colors and fonts?"
+msgstr "Как я могу настроить цвета и шрифты?"
+
+#: notice-getstart/alpha-getstart.php:194
+msgid "Yes, the theme is fully compatible with WooCommerce. Once WooCommerce is installed and activated, you can add products, create a shop page, and customize the store layout."
+msgstr "Да, тема полностью совместима с WooCommerce. После установки и активации WooCommerce Вы сможете добавлять товары, создавать страницу магазина и настраивать макет магазина."
+
+#: notice-getstart/alpha-getstart.php:193
+msgid "Does this theme support WooCommerce?"
+msgstr "Поддерживает ли эта тема WooCommerce?"
+
+#: notice-getstart/alpha-getstart.php:190
+msgid "Yes, you can update the logo, site title, and tagline by going to Appearance > Editor > Site Settings > General. From there, you can upload a custom logo and edit your site information."
+msgstr "Да, Вы можете обновить логотип, название сайта и теглайн, перейдя в меню Внешний вид > Редактор > Настройки сайта > Общие. Оттуда Вы можете загрузить собственный логотип и отредактировать информацию о сайте."
+
+#: notice-getstart/alpha-getstart.php:189
+msgid "Can I change the site logo and title?"
+msgstr "Могу ли я изменить логотип и название сайта?"
+
+#: notice-getstart/alpha-getstart.php:186
+msgid "You can install the theme by going to Appearance > Themes > Add New, then upload the theme ZIP file and click Install. Once installed, click Activate to start using the theme."
+msgstr "Вы можете установить тему, перейдя в меню Внешний вид > Темы > Добавить новую, затем загрузите ZIP-файл темы и нажмите кнопку Установить. После установки нажмите Активировать, чтобы начать использовать тему."
+
+#: notice-getstart/alpha-getstart.php:185
+msgid "How do I install and activate this theme?"
+msgstr "Как установить и активировать эту тему?"
+
+#: functions.php:33
+msgid "https://www.themescarts.com/products/glam-fashion-blog/"
+msgstr "https://www.themescarts.com/products/glam-fashion-blog/"
+
+#: functions.php:32
+msgid "https://www.themescarts.com/products/solar-wordpress-theme/"
+msgstr "https://www.themescarts.com/products/solar-wordpress-theme/"
+
+#: core/section-pro/customizer.php:74
+msgid "Upgrade Pro"
+msgstr "Обновить до Pro"
+
+#: core/admin/theme-notice.php:6
+msgid "Theme Info"
+msgstr "Информация о теме"
+
+#: core/admin/theme-notice.php:5
+msgid "Get Glam Fashion Blog Pro"
+msgstr "Get Glam Fashion Blog Pro"
+
+#: core/admin/theme-notice.php:3
+msgid "Upgrade to the Pro edition to improve your website. Experience our complete feature set and our commitment to providing you with the support and flexibility you need to take your website to new heights."
+msgstr "Перейдите на редакцию Pro, чтобы улучшить свой сайт. Оцените наш полный набор функций и наше стремление обеспечить Вам поддержку и гибкость, необходимые для того, чтобы поднять Ваш сайт на новую высоту."
+
+#: core/admin/theme-notice.php:2 core/section-pro/customizer.php:73
+msgid "Glam Fashion Blog Pro"
+msgstr "Glam Fashion Blog Pro"
+
+#: core/admin/theme-info.php:529
+msgid "Add Reviews"
+msgstr "Добавить отзывы"
+
+#: core/admin/theme-info.php:525
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: core/admin/theme-info.php:521
+msgid "\"Simple Setup - Our Committed Team will quickly set up your website.\""
+msgstr "\"Простая настройка - наша команда быстро настроит Ваш сайт\""
+
+#: core/admin/theme-info.php:519
+msgid "Queries Greetings! We are here to assist."
+msgstr "Запросы Приветствуем! Мы здесь, чтобы помочь."
+
+#: core/admin/theme-info.php:505
+msgid "Edit each areas of website(header, footer, sidebar)"
+msgstr "Изменить каждую область сайта (заголовок, подвал, боковая панель)"
+
+#: core/admin/theme-info.php:496
+msgid "Global style Interface"
+msgstr "Глобальный стиль Интерфейс"
+
+#: core/admin/theme-info.php:487
+msgid "Block patterns and template parts"
+msgstr "Паттерны блоков и части шаблонов"
+
+#: core/admin/theme-info.php:478
+msgid "Style variations"
+msgstr "Варианты стилей"
+
+#: core/admin/theme-info.php:469
+msgid "Block themes"
+msgstr "Темы на основе блоков"
+
+#: core/admin/theme-info.php:466
+msgid "Limited Features"
+msgstr "Ограниченные возможности"
+
+#: core/admin/theme-info.php:460
+msgid "Full Site Editing/Site Editor"
+msgstr "Полное редактирование сайта/редактор сайта"
+
+#: core/admin/theme-info.php:451
+msgid "Coupon"
+msgstr "Купон"
+
+#: core/admin/theme-info.php:442
+msgid "Multiple prices and multiple dates"
+msgstr "Несколько цен и несколько дат"
+
+#: core/admin/theme-info.php:433
+msgid "Tour extras"
+msgstr "Дополнительные услуги тура"
+
+#: core/admin/theme-info.php:424
+msgid "Wishlist"
+msgstr "Список желаний"
+
+#: core/admin/theme-info.php:415
+msgid "Group discount"
+msgstr "Групповая скидка"
+
+#: core/admin/theme-info.php:406
+msgid "Google Maps zoom level settings"
+msgstr "Настройка уровня масштабирования Google Maps"
+
+#: core/admin/theme-info.php:397
+msgid "Booking system"
+msgstr "Система бронирования"
+
+#: core/admin/theme-info.php:388
+msgid "WP Travel Plugin"
+msgstr "WP Travel Plugin"
+
+#: core/admin/theme-info.php:379
+msgid "Enable Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: core/admin/theme-info.php:370
+msgid "Enable Sponsor Slider"
+msgstr "Включить слайдер спонсоров"
+
+#: core/admin/theme-info.php:361
+msgid "Enable Testimonial Slider"
+msgstr "Включить слайдер отзывов"
+
+#: core/admin/theme-info.php:352
+msgid "Enable Mini Cart On Header"
+msgstr "Мини-корзина в заголовке"
+
+#: core/admin/theme-info.php:343
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: core/admin/theme-info.php:334
+msgid "Advanced Color Options"
+msgstr "Расширенные настройки цвета"
+
+#: core/admin/theme-info.php:325
+msgid "Templates and block patterns"
+msgstr "Шаблоны и паттерны блоков"
+
+#: core/admin/theme-info.php:316
+msgid "News Block"
+msgstr "Блок новостей"
+
+#: core/admin/theme-info.php:307
+msgid "Testimonials(block)"
+msgstr "Отзывы (блок)"
+
+#: core/admin/theme-info.php:298
+msgid "Carousel Post (Block)"
+msgstr "Карусель записи (блок)"
+
+#: core/admin/theme-info.php:289
+msgid "Blog (block)"
+msgstr "Блог (блок)"
+
+#: core/admin/theme-info.php:280
+msgid "Profile card (Block)"
+msgstr "Карточка профиля (блок)"
+
+#: core/admin/theme-info.php:271
+msgid "Gutenberg block editor"
+msgstr "Редактор блоков Gutenberg"
+
+#: core/admin/theme-info.php:253
+msgid "Import components/ templates"
+msgstr "Импорт компонентов/шаблонов"
+
+#: core/admin/theme-info.php:246 core/admin/theme-info.php:291
+#: core/admin/theme-info.php:300 core/admin/theme-info.php:336
+msgid "Unlimited"
+msgstr "Без ограничений"
+
+#: core/admin/theme-info.php:244
+msgid "Typography and color options"
+msgstr "Типографика и параметры цвета"
+
+#: core/admin/theme-info.php:241 core/admin/theme-info.php:250
+#: core/admin/theme-info.php:286 core/admin/theme-info.php:295
+#: core/admin/theme-info.php:322 core/admin/theme-info.php:331
+#: core/admin/theme-info.php:430 core/admin/theme-info.php:484
+msgid "Limited"
+msgstr "Ограниченная"
+
+#: core/admin/theme-info.php:235
+msgid " Featured Slider"
+msgstr " Избранный слайдер"
+
+#: core/admin/theme-info.php:226 core/admin/theme-info.php:262
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: core/admin/theme-info.php:217
+msgid "Drag and Drop functionality"
+msgstr "Функциональность перетаскивания"
+
+#: core/admin/theme-info.php:208
+msgid "Elementor"
+msgstr "Elementor"
+
+#: core/admin/theme-info.php:199
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: core/admin/theme-info.php:190
+msgid "Bulk Variation"
+msgstr "Массовое управление вариациями"
+
+#: core/admin/theme-info.php:181
+msgid "Sticky cart"
+msgstr "Прикреплённая корзина"
+
+#: core/admin/theme-info.php:172
+msgid "Multi Steps"
+msgstr "Несколько шагов"
+
+#: core/admin/theme-info.php:163
+msgid "Upsells"
+msgstr "Апсэлы"
+
+#: core/admin/theme-info.php:154
+msgid "Mini Cart"
+msgstr "Мини-корзина"
+
+#: core/admin/theme-info.php:145
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: core/admin/theme-info.php:136
+msgid "No coding required"
+msgstr "Не требуется кодирование"
+
+#: core/admin/theme-info.php:127
+msgid "Lifetime Updates"
+msgstr "Бессрочные обновления"
+
+#: core/admin/theme-info.php:118
+msgid "Secure transaction"
+msgstr "Безопасная транзакция"
+
+#: core/admin/theme-info.php:109
+msgid "Different niches starter sites"
+msgstr "Стартовые сайты для разных ниш"
+
+#: core/admin/theme-info.php:102
+msgid "High-Priority Dedicated Support"
+msgstr "Высокоприоритетная выделенная поддержка"
+
+#: core/admin/theme-info.php:100
+msgid "24/7 premium support"
+msgstr "Поддержка 24/7 премиум-класса"
+
+#: core/admin/theme-info.php:91
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: core/admin/theme-info.php:82
+msgid "Responsive Desgin"
+msgstr "Адаптивный дизайн"
+
+#: core/admin/theme-info.php:73
+msgid "Easy Setup"
+msgstr "Простая установка"
+
+#: core/admin/theme-info.php:64
+msgid "( More Blocks & Settings available )"
+msgstr "(Доступно больше блоков и настроек)"
+
+#: core/admin/theme-info.php:63
+msgid "Glam Fashion Blog Pro "
+msgstr "Glam Fashion Blog Pro "
+
+#: core/admin/theme-info.php:60
+msgid "Features"
+msgstr "Функции"
+
+#: core/admin/theme-info.php:56
+msgid "( Limited blocks available )"
+msgstr "( Доступно ограниченное кол-во блоков )"
+
+#: core/admin/theme-info.php:55
+msgid "Free"
+msgstr "Free"
+
+#: core/admin/theme-info.php:48
+msgid "Free Vs Pro"
+msgstr "Free против Pro"
+
+#: core/admin/theme-info.php:35
+msgid "Get All Block Themes @59"
+msgstr "Получите все темы блоков @59"
+
+#: core/admin/theme-info.php:30
+msgid "Pro Theme Documentation"
+msgstr "Документация по теме Pro"
+
+#: core/admin/theme-info.php:26
+msgid "Pro Live Demo"
+msgstr "Онлайн-демо Pro в реальном времени"
+
+#: core/admin/theme-info.php:22 core/admin/theme-info.php:533
+msgid "Get Premium Version"
+msgstr "Получить премиум-версию"
+
+#: core/admin/theme-info.php:16
+msgid "Glam Fashion Blog is a multifunctional WordPress full site editing theme that is compatible with all browsers and devices."
+msgstr "Glam Fashion Blog - это многофункциональная тема WordPress для полного редактирования сайта, совместимая со всеми браузерами и устройствами."
+
+#: styles/turquoise.json
+msgctxt "Style variation name"
+msgid "Turquoise"
+msgstr "Бирюзовый"
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Красный"
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: styles/olive-gold.json
+msgctxt "Style variation name"
+msgid "Olive Gold"
+msgstr "Оливковое золото"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Зеленый"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Синий"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Huge"
+msgstr "Очень огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Slider Title"
+msgstr "Название слайдера"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Заголовок содержимого"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Potta One"
+msgstr "Potta One"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Pink"
+msgstr "Розовый"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Hexadecimal"
+msgstr "Шестнадцатеричный"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Lite Red"
+msgstr "Светло-красный"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Dark Purple"
+msgstr "Тёмно-фиолетовый"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Lite Green"
+msgstr "Светло-зеленый"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Dark Green"
+msgstr "Тёмно-зелёный"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Sky Blue"
+msgstr "Небесно-голубой"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Dark Blue"
+msgstr "Тёмно-синий"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Cyan"
+msgstr "Циан"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "coffee"
+msgstr "кофе"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Boulder"
+msgstr "Boulder"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Input Field"
+msgstr "Поле ввода"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Text Link"
+msgstr "Текстовая ссылка"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Color"
+msgstr "Дополнительный цвет"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Текст основной части"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr "Вторичный фон"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичное"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr "От диагонального фонового к третичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr "От диагонального третичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr "От диагонального фонового к вторичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background right"
+msgstr "От диагонального вторичного к фоновому, справа"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background left"
+msgstr "От диагонального вторичного к фоновому, слева"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr "От диагонального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr "От диагонального первичного к переднему плану"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr "От вертикального третичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to secondary"
+msgstr "От вертикального фонового к вторичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr "От вертикального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr "От вертикального вторичного к третичному"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Gradient name"
+msgid "Secondary Gradient"
+msgstr "Вторичный градиент"
+
+#: theme.json styles/blue.json styles/Blue Modern.json styles/Deep Violet.json
+#: styles/green.json styles/Lavender Pastel.json styles/olive-gold.json
+#: styles/orange.json styles/purple.json styles/red.json styles/turquoise.json
+#: styles/Yellow.json
+msgctxt "Gradient name"
+msgid "Primary Gradient"
+msgstr "Первичный градиент"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr "Первичный и третичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr "Первичный и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr "Первичный и фоновый"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Передний план и третичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Передний план и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Передний план и фон"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Product Catalog"
+msgstr "Каталог товаров"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Products by Category"
+msgstr "Товары по категории"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Products by Tag"
+msgstr "Товары по метке"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr "Страница (без названия / с изображением)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: patterns/sidebar.php:120
+msgid "Social Links"
+msgstr "Ссылки соцсети"
+
+#: patterns/sidebar.php:102
+msgid "Tags"
+msgstr "Метки"
+
+#: patterns/sidebar.php:64
+msgid "Categories"
+msgstr "Рубрики"
+
+#: patterns/sidebar.php:41
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: patterns/sidebar.php:20
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, alias aspernatur quam voluptates sint, dolore doloribus voluptas labore temporibus earum eveniet, reiciendis."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, alias aspernatur quam voluptates sint, dolore doloribus voluptas labore temporibus earum eveniet, reiciendis."
+
+#: patterns/sidebar.php:16
+msgid "Williams Brown"
+msgstr "Williams Brown"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr "Основная боковая панель"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Поиск"
+
+#: patterns/latest-news.php:33
+msgid "Explore More"
+msgstr "Узнать больше"
+
+#: patterns/latest-news.php:27
+msgid "Recent News"
+msgstr "Последние новости"
+
+#: patterns/latest-news.php:22
+msgid "From Our Blog"
+msgstr "Из нашего блога"
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: patterns/hidden-404.php:22
+msgid "Maybe the page you are looking for is not found or never existed."
+msgstr "Возможно, страница, которую Вы ищете, не найдена или никогда не существовала."
+
+#: patterns/hidden-404.php:18
+msgid "Theres Nothing Here"
+msgstr "Здесь ничего нет"
+
+#: patterns/hidden-404.php:14
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Заголовок по умолчанию"
+
+#: patterns/front-page.php:338
+msgid "Recent Post"
+msgstr "Свежая запись"
+
+#: patterns/front-page.php:318
+msgid "Fashion Tips"
+msgstr "Модные советы"
+
+#: patterns/front-page.php:290
+msgid "Seasonal Trends"
+msgstr "Сезонные тенденции"
+
+#: patterns/front-page.php:262
+msgid "Beauty"
+msgstr "Красота"
+
+#: patterns/front-page.php:238 patterns/front-page.php:266
+#: patterns/front-page.php:294 patterns/front-page.php:322
+msgid "03 Post"
+msgstr "03 запись"
+
+#: patterns/front-page.php:195 patterns/front-page.php:213
+#: patterns/front-page.php:342
+msgid "Lorem Ipsum & is simply dummy text of the printing and typesetting industry."
+msgstr "Lorem Ipsum - это просто фиктивный текст, используемый в полиграфии и типографском деле."
+
+#: patterns/front-page.php:191 patterns/front-page.php:209
+msgid "Featured Blog Categories"
+msgstr "Избранные рубрики блога"
+
+#: patterns/front-page.php:107 patterns/front-page.php:173
+msgid "BLOG"
+msgstr "БЛОГ"
+
+#: patterns/front-page.php:107 patterns/front-page.php:173
+msgid "FASHION"
+msgstr "МОДА"
+
+#: patterns/front-page.php:97 patterns/front-page.php:163
+msgid "Sep 19, 2025"
+msgstr "19 сентября 2025 г"
+
+#: patterns/front-page.php:93 patterns/front-page.php:159
+msgid "Jessica brown"
+msgstr "Джессика Браун"
+
+#: patterns/front-page.php:93 patterns/front-page.php:159
+msgid "BY"
+msgstr "ОТ"
+
+#: patterns/front-page.php:80 patterns/front-page.php:146
+msgid "Know More"
+msgstr "Узнать больше"
+
+#: patterns/front-page.php:75 patterns/front-page.php:141
+msgid "industry."
+msgstr "индустрии."
+
+#: patterns/front-page.php:75 patterns/front-page.php:141
+msgid "of the printing and typesetting"
+msgstr "печати и набора текста"
+
+#: patterns/front-page.php:75 patterns/front-page.php:141
+msgid "Lorem Ipsum & is simply dummy text"
+msgstr "Lorem Ipsum & - это просто фиктивный текст"
+
+#: patterns/front-page.php:71 patterns/front-page.php:137
+msgid "Sisters"
+msgstr "Сестры"
+
+#: patterns/front-page.php:71 patterns/front-page.php:137
+msgid "Least Competitive"
+msgstr "Наименее конкурентоспособный"
+
+#: patterns/front-page.php:71 patterns/front-page.php:137
+msgid "Hadid Are The"
+msgstr "Хадид - это"
+
+#: patterns/front-page.php:71 patterns/front-page.php:137
+msgid "Proof Gigi And Bella"
+msgstr "Доказательство Джиджи и Беллы"
+
+#: patterns/front-page.php:66 patterns/front-page.php:132
+#: patterns/front-page.php:234
+msgid "Street Style"
+msgstr "Стритстайл"
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: patterns/footer-default.php:56
+msgid "Recent Blog"
+msgstr "Последний блог"
+
+#: patterns/footer-default.php:46 patterns/sidebar.php:82
+msgid "Archive"
+msgstr "Архив"
+
+#: notice-getstart/page-theme-info.php:142 patterns/footer-default.php:36
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Подвал по умолчанию"
+
+#: functions.php:58
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: core/tgm/tgm.php:17
+msgid "Gutentor"
+msgstr "Gutentor"
+
+#: core/tgm/tgm.php:10
+msgid "Posts Like Dislike"
+msgstr "Posts Like Dislike"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/tgm/class-tgm-plugin-activation.php:3514
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: core/tgm/class-tgm-plugin-activation.php:3512
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:3511
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: core/tgm/class-tgm-plugin-activation.php:3509
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/tgm/class-tgm-plugin-activation.php:3506
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: core/tgm/class-tgm-plugin-activation.php:3504
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:3503
+#: core/tgm/class-tgm-plugin-activation.php:3511
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:3503
+#: core/tgm/class-tgm-plugin-activation.php:3511
+msgid "Show Details"
+msgstr "Подробнее"
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:3503
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: core/tgm/class-tgm-plugin-activation.php:3501
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:3497
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: core/tgm/class-tgm-plugin-activation.php:3495
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/tgm/class-tgm-plugin-activation.php:3492
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: core/tgm/class-tgm-plugin-activation.php:3152
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: core/tgm/class-tgm-plugin-activation.php:2928
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: core/tgm/class-tgm-plugin-activation.php:2902
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: core/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: core/tgm/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: core/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: core/tgm/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: core/tgm/class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr "Активировать"
+
+#: core/tgm/class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr "Обновление"
+
+#: core/tgm/class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr "Установка"
+
+#: core/tgm/class-tgm-plugin-activation.php:2678
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/tgm/class-tgm-plugin-activation.php:2608
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/tgm/class-tgm-plugin-activation.php:2602
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/tgm/class-tgm-plugin-activation.php:2597
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: core/tgm/class-tgm-plugin-activation.php:2548
+msgid "Status"
+msgstr "Статус"
+
+#: core/tgm/class-tgm-plugin-activation.php:2547
+msgid "Version"
+msgstr "Версия"
+
+#: core/tgm/class-tgm-plugin-activation.php:2543
+msgid "Type"
+msgstr "Тип"
+
+#: core/tgm/class-tgm-plugin-activation.php:2542
+msgid "Source"
+msgstr "Источник"
+
+#: core/tgm/class-tgm-plugin-activation.php:2541
+msgid "Plugin"
+msgstr "Плагин"
+
+#: core/tgm/class-tgm-plugin-activation.php:2527
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: core/tgm/class-tgm-plugin-activation.php:2504
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: core/tgm/class-tgm-plugin-activation.php:2492
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: core/tgm/class-tgm-plugin-activation.php:2484
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: core/tgm/class-tgm-plugin-activation.php:2476
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: core/tgm/class-tgm-plugin-activation.php:2394
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: core/tgm/class-tgm-plugin-activation.php:2390
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: core/tgm/class-tgm-plugin-activation.php:2386
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: core/tgm/class-tgm-plugin-activation.php:2382
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: core/tgm/class-tgm-plugin-activation.php:2336
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: core/tgm/class-tgm-plugin-activation.php:2327
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: core/tgm/class-tgm-plugin-activation.php:2324
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: core/tgm/class-tgm-plugin-activation.php:2321
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: core/tgm/class-tgm-plugin-activation.php:2315
+msgid "Active"
+msgstr "Активный"
+
+#: core/tgm/class-tgm-plugin-activation.php:2313
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: core/tgm/class-tgm-plugin-activation.php:2309
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: core/tgm/class-tgm-plugin-activation.php:2292
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: core/tgm/class-tgm-plugin-activation.php:2289
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: core/tgm/class-tgm-plugin-activation.php:2286
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: core/tgm/class-tgm-plugin-activation.php:2270
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: core/tgm/class-tgm-plugin-activation.php:2267
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: core/tgm/class-tgm-plugin-activation.php:1976
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: core/tgm/class-tgm-plugin-activation.php:1115
+#: core/tgm/class-tgm-plugin-activation.php:2942
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: core/tgm/class-tgm-plugin-activation.php:931
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: core/tgm/class-tgm-plugin-activation.php:928
+#: core/tgm/class-tgm-plugin-activation.php:931
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: core/tgm/class-tgm-plugin-activation.php:928
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: core/tgm/class-tgm-plugin-activation.php:517
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: core/tgm/class-tgm-plugin-activation.php:516
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: core/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: core/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых, или рекомендуемых плагинов для установки, обновления или активации."
+
+#: core/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#. translators: 1: dashboard link.
+#: core/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: core/tgm/class-tgm-plugin-activation.php:388
+#: core/tgm/class-tgm-plugin-activation.php:2946
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+msgstr[2] "Следующие плагинов был успешно активирован:"
+
+#: core/tgm/class-tgm-plugin-activation.php:387
+#: core/tgm/class-tgm-plugin-activation.php:3153
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: core/tgm/class-tgm-plugin-activation.php:386
+#: core/tgm/class-tgm-plugin-activation.php:821
+#: core/tgm/class-tgm-plugin-activation.php:2527
+#: core/tgm/class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: core/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: core/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: core/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: core/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: core/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: core/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: core/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: core/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: core/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: core/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.thealphablocks.com/"
+msgstr "https://www.thealphablocks.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Abu Turab"
+msgstr "Abu Turab"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.thealphablocks.com/themes/glam-fashion-blog"
+msgstr "https://www.thealphablocks.com/themes/glam-fashion-blog"
