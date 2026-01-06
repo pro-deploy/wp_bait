@@ -1,6 +1,6 @@
 services:
   wordpress:
-    image: wordpress:latest
+    build: .
     container_name: wordpress-app-prod
     restart: always
     environment:
@@ -12,6 +12,4 @@ services:
       WORDPRESS_DEBUG_LOG: "1"
       WORDPRESS_DEBUG_DISPLAY: "1"
       PHP_INI_SCAN_DIR: "/usr/local/etc/php/conf.d:/usr/local/etc/php/conf.d"
-    volumes:
-      - ./wp-content:/var/www/html/wp-content
 
