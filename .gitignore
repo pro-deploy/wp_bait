@@ -6,3 +6,4 @@ wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
 wp-content/cache/
 wp-content/debug.log
+docker-compose.dev.yml
